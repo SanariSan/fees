@@ -1,0 +1,4591 @@
+[{
+  "symbols": "walletusdt,wildusdt,kanusdt,pendleusdt,bnsxusdt,btceuroc,cusdusdt,unieth,icxbtc,shibusdc",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "bnsxusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "kanusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "walletusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "pendleusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "cusdusdt"
+    }
+  ]
+},
+{
+  "symbols": "filusdd,stketh,crvusdt,aptusdt,adahusd,sttusdt,wanbtc,tusdt,galusdt,eos3susdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "crvusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "aptusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "sttusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "tusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "wanbtc"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "galftusdt"
+    }
+  ]
+},
+{
+  "symbols": "woousdt,sandbtc,forusdt,kncusdt,wnxmeth,aptusdc,nbsusdt,whalebtc,astrusdt,zecusdt",
+  "data": [
+    {
+      "symbol": "kncusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "astrusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "nbsusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "forusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "woousdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "zecusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "luncht,hiteth,coqusdt,itcbtc,wxtht,lolht,epikusdt,dogeusdt,jsteth,avaxusdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "epikusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "jsteth"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "coqusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "avaxusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "dogeusdt"
+    }
+  ]
+},
+{
+  "symbols": "fildabtc,mirustc,ctsiusdt,visionusdt,bt1btc,xrp3lusdt,vetbtc,xmrusdt,uni2lusdt,auryusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "xmrusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "ctsiusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "visionusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "auryusdt"
+    }
+  ]
+},
+{
+  "symbols": "valueusdt,gvebtc,taousdt,mplxusdt,vidyht,lxtbtc,cereusdt,dashht,kmdusdt,cvntbtc",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "kmdusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "cereusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "mplxusdt"
+    }
+  ]
+},
+{
+  "symbols": "chatbtc,snxbtc,zilusdt,pondusdt,yamusdt,lbausdt,bananausdt,blzeth,mggusdt,crousdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "pondusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "bananausdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "mggusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "zilusdt"
+    }
+  ]
+},
+{
+  "symbols": "crueth,grsbtc,evmosusdt,nftusdd,cvpusdt,eosbtc,etcbtc,turtusdt,cdceth,ardrbtc",
+  "data": [
+    {
+      "symbol": "ardrbtc",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "cvpusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "nftusdd",
+      "taker-fee": 0,
+      "maker-fee": 0
+    },
+    {
+      "symbol": "etcbtc",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "turtusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "evmosusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "bfteth,zcxusdt,dashhusd,btcpyusd,lptusdt,wprbtc,xmrusdc,racausdt,rdntusdt,topceth",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "lptusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "btcpyusd",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "racausdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "rdntusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "zcxusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "zjlteth,injeth,wbtceth,waxlusdt,ensusdt,ladysusdt,auctionbtc,abbcusdd,fisbtc,plyusdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "ensusdt"
+    },
+    {
+      "maker-fee": 0,
+      "taker-fee": 0,
+      "symbol": "abbcusdd"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "waxlusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "ladysusdt"
+    }
+  ]
+},
+{
+  "symbols": "wpciusdt,creusdt,lskusdt,maticusdt,datxbtc,xenusdt,dotusdt,bandusdt,stnusdt,omgusdt",
+  "data": [
+    {
+      "symbol": "maticusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "omgusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "dotusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "wpciusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "lskusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "bandusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "creusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "xenusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "atsusdt,flokiusdt,maticeth,storjusdt,wndusdt,nhbtceth,rsrht,xrpht,usddusdt,tusdusdd",
+  "data": [
+    {
+      "maker-fee": 0,
+      "taker-fee": 0,
+      "symbol": "usddusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "flokiusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "storjusdt"
+    }
+  ]
+},
+{
+  "symbols": "wstusdtusdt,porusdt,dkaeth,hecusdt,mageusdt,pcbtc,bsvusdt,atpusdt,mtneth,ryomausdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "ryomausdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "hecusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "bsvusdt"
+    },
+    {
+      "maker-fee": 0,
+      "taker-fee": 0,
+      "symbol": "wstusdtusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "mageusdt"
+    }
+  ]
+},
+{
+  "symbols": "cawusdt,hftusdd,radusdt,mxbtc,dhteth,noiausdt,tnteth,trxhusd,srmusdt,nanoeth",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "cawusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "radusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "noiausdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "srmusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0,
+      "symbol": "hftusdd",
+      "maker-fee": 0
+    }
+  ]
+},
+{
+  "symbols": "omgeth,saltbtc,1solusdt,ctxusdt,coreusdt,smtbtc,seeleeth,ankrht,uuubtc,boneusdt",
+  "data": [
+    {
+      "symbol": "boneusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "ctxusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "coreusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "chrusdt,axseth,xmxbtc,crptusdt,hbcusdt,fudusdd,link3lusdt,ceekusdt,rdnbtc,kavabtc",
+  "data": [
+    {
+      "symbol": "crptusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "ceekusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "chrusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "oxtbtc,aitechusdt,unicusdt,xvgusdt,frontbtc,tusdhusd,yameth,oceanusdt,sdusdt,zkseth",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "oceanusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "sdusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "xvgusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "aitechusdt"
+    }
+  ]
+},
+{
+  "symbols": "filbtc,irisbtc,hptht,vlxusdt,xmreth,dogeusdc,aaveusdt,wnxmusdt,nodebtc,srnbtc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "wnxmusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "aaveusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "vlxusdt"
+    }
+  ]
+},
+{
+  "symbols": "zecusdc,rcccbtc,starlyusdt,nknbtc,xdefiusdt,skleth,bandeth,cvnxbtc,ltcusdc,kcashht",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "xdefiusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "starlyusdt"
+    }
+  ]
+},
+{
+  "symbols": "ioibtc,ontbtc,dhtusdt,dbcusdt,elfbtc,idusdt,cruusdt,miceusdt,latbtc,ondousdt",
+  "data": [
+    {
+      "symbol": "miceusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "cruusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "idusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "elfbtc",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "ondousdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "dbcusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "soulusdt,rlybtc,perpusdt,zkbusdt,crveth,dotbtc,aidocbtc,cgptusdt,flowusdc,xembtc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "cgptusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "dotbtc"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "soulusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "perpusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "zkbusdt"
+    }
+  ]
+},
+{
+  "symbols": "topht,ekoeth,rsrhusd,luneth,boxbtc,api3btc,rpkusdt,fetusdt,wbtcusdt,phcrusdt",
+  "data": [
+    {
+      "symbol": "fetusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "rpkusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "boxbtc",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "phcrusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "hftusdt,adxeth,mteth,lambeth,vempusdt,ltcbtc,medamonusdt,evxbtc,letbtc,cvpeth",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "vempusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "medamonusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "ltcbtc",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "hftusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "cakeusdt,crebtc,lunrusdt,aegisusdt,vicusdt,bullusdt,anmlusdt,ordsusdt,lbabtc,grtbtc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "ordsusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "anmlusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "vicusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "lunrusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "bullusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "cakeusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "dgdeth,avaxeth,filhusd,shebtc,btseth,hotusdt,bldusdt,kaneth,cmtusdt,looksusdt",
+  "data": [
+    {
+      "symbol": "hydrousdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "bldusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "looksusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "bixeth,aidogeusdt,jtousdt,pondeth,zetausdt,tokeusdt,tpyusdt,gnxbtc,zntusdt,mlneth",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "tokeusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "jtousdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "zetausdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "tpyusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "aidogeusdt"
+    }
+  ]
+},
+{
+  "symbols": "xcurusdt,waxpbtc,ethhusd,uftusdt,aaveeth,lxtusdt,newusdt,hftusdc,shrapusdt,flowusdt",
+  "data": [
+    {
+      "symbol": "xcurusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "uftusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "shrapusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "flowusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "newusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "akrobtc,ttht,btcbrl,ordiusdt,avaxbtc,mxusdt,chzeth,atomusdd,ogousdt,dydxusdt",
+  "data": [
+    {
+      "symbol": "mxusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "ordiusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "btcbrl",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "dydxusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "bcvbtc,snxusdt,aacusdt,dcrbtc,nanousdt,ctxceth,icpusdt,xtzbtc,mblusdt,vetusdc",
+  "data": [
+    {
+      "symbol": "snxusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "mblusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "icpusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "aacusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "nanousdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "nestusdt,dieusdt,rss3usdt,duskusdt,eurtusdt,tiausdt,radbtc,tnbbtc,nulsusdt,nearbtc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "rss3usdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "eurtusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "nestusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "tiausdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "duskusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "nulsusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "xvgeth,ncashusdt,btctry,1catusdt,gofbtc,btchusd,blurusdt,akrohusd,bttusdd,uuuusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "1catusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "blurusdt"
+    },
+    {
+      "taker-fee": 0,
+      "maker-fee": 0,
+      "symbol": "bttusdd"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "btctry"
+    }
+  ]
+},
+{
+  "symbols": "vsysht,nearusdd,bsv3susdt,maneth,spumeusdt,eosusdt,bssbusdt,gtceth,nulseth,emht",
+  "data": [
+    {
+      "maker-fee": 0,
+      "taker-fee": 0,
+      "symbol": "nearusdd"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "bssbusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "eosusdt"
+    }
+  ]
+},
+{
+  "symbols": "fiousdt,sofiusdt,ingusdt,stptbtc,revousdt,ekobtc,lsketh,spellusdt,kanbtc,reefeth",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "sofiusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "revousdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "spellusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "fiousdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "ingusdt"
+    }
+  ]
+},
+{
+  "symbols": "ltcusdt,eos3lusdt,usdjusdt,gaseth,faireth,nknusdt,bnbusdt,linketh,fttht,fil3lusdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "usdjusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "ltcusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "bnbusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "nknusdt"
+    }
+  ]
+},
+{
+  "symbols": "ugasbtc,mtbtc,atombtc,seeleusdt,cvceth,frontusdt,gcoinusdt,usdtrub,usddusdc,sushihusd",
+  "data": [
+    {
+      "taker-fee": 0,
+      "maker-fee": 0,
+      "symbol": "usddusdc"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "frontusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "atombtc"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "mtbtc"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "usdtrub"
+    }
+  ]
+},
+{
+  "symbols": "snxhusd,xrteth,uosusdt,ontusdt,link3susdt,h2ousdt,mudol2usdt,ponkeusdt,sspeth,oxtusdt",
+  "data": [
+    {
+      "symbol": "oxtusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "uosusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "ponkeusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "h2ousdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "mudol2usdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "ontusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "icxusdt,zelixusdt,godsusdt,celousdt,acheth,ncashbtc,bsvusdc,plausdt,lbaeth,usdjusdd",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "icxusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "godsusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "acheth",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0,
+      "symbol": "usdjusdd",
+      "maker-fee": 0
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "plausdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "zelixusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "celousdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "1inchbtc,cvpbtc,apeusdc,itcusdt,gtaiusdt,aaceth,voxelusdt,crtsusdt,mlnusdt,cmtbtc",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "voxelusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "mlnusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "gtaiusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "crtsusdt"
+    }
+  ]
+},
+{
+  "symbols": "shibusdt,algousdc,arkmusdt,efiusdt,eosusdd,valueeth,dbcbtc,rbtcbtc,onthusd,payeth",
+  "data": [
+    {
+      "symbol": "arkmusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "eosusdd",
+      "maker-fee": 0,
+      "taker-fee": 0
+    },
+    {
+      "symbol": "shibusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "nodeusdt,xvgbtc,huntusdt,haousdt,opulusdt,filusdt,nccbtc,ogvusdt,sdaousdt,uipeth",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "opulusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "huntusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "haousdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "sdaousdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "filusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "ogvusdt"
+    }
+  ]
+},
+{
+  "symbols": "sunusdd,btcusdd,xrtusdt,areth,aidoceth,btmhusd,egccbtc,btcusdt,aavebtc,xrphusd",
+  "data": [
+    {
+      "taker-fee": 0,
+      "maker-fee": 0,
+      "symbol": "btcusdd"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "btcusdt"
+    },
+    {
+      "taker-fee": 0,
+      "maker-fee": 0,
+      "symbol": "sunusdd"
+    }
+  ]
+},
+{
+  "symbols": "reefusdt,gariusdt,agldbtc,rethusdt,ptceth,wozxusdt,lrcusdc,ltc3susdt,ksmbtc,kavausdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "wozxusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "gariusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "reefusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "kavausdt"
+    }
+  ]
+},
+{
+  "symbols": "sofieth,aliusdt,gnobtc,lhbusdt,kmausdt,lskbtc,uniusdt,nesteth,yfieth,lrcusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "uniusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "lrcusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "aliusdt"
+    }
+  ]
+},
+{
+  "symbols": "bandbtc,nglusdt,ethpyusd,velousdt,routeusdt,rteeth,smteth,gnousdt,xrtbtc,shibusdd",
+  "data": [
+    {
+      "symbol": "ethpyusd",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "gnousdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "routeusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "nglusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "velousdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "thetabtc,sandht,xnousdt,agixusdt,nptusdt,bftbtc,storjbtc,oneht,luncbtc,ncasheth",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "agixusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "nptusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "xnousdt"
+    }
+  ]
+},
+{
+  "symbols": "ycceth,daiusdt,qtumeth,polseth,bch3susdt,bosonusdt,lithusdt,mtxbtc,gveeth,rndrbtc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "bosonusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "daiusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "lithusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "gtcbtc,bbcusdt,scrtusdt,lambusdt,adxusdt,lendbtc,dhtbtc,chzusdt,aebtc,badgerbtc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "scrtusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "chzusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "lambusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "adxusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "bbcusdt"
+    }
+  ]
+},
+{
+  "symbols": "fudusdt,etcht,eosht,egsusdt,itausdt,gofusdt,hbbusdt,usdpusdt,indiusdt,nextusdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "nextusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "hbbusdt"
+    },
+    {
+      "maker-fee": 0,
+      "taker-fee": 0,
+      "symbol": "usdpusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "fudusdt"
+    }
+  ]
+},
+{
+  "symbols": "grailusdt,amuusdt,nearusdt,manabtc,bchusdc,htusdt,ektbtc,linabtc,dockusdt,antusdt",
+  "data": [
+    {
+      "symbol": "grailusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "htusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "nearusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "amuusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "antusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "inrusdt,trbeth,hitbtc,itceth,solbtc,sklusdt,cmteth,bch3lusdt,wellusdt,fotausdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "wellusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "sklusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "fotausdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "solbtc"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "inrusdt"
+    }
+  ]
+},
+{
+  "symbols": "bonkusdd,qashbtc,achusdt,wnxmbtc,joyusdt,xyousdt,phxbtc,mkrhusd,wmtusdt,luncusdd",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "xyousdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "achusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "joyusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "wmtusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "kavaeth,tusdusdt,psgusdt,sysusdt,paieth,glmrusdt,matchusdt,iosthusd,sillyusdt,nodeht",
+  "data": [
+    {
+      "symbol": "psgusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "glmrusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "sillyusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "sysusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "tusdusdt",
+      "taker-fee": 0,
+      "maker-fee": 0
+    }
+  ]
+},
+{
+  "symbols": "glmeth,chadusdt,babyusdt,valuebtc,rsrbtc,forbtc,uceth,bobausdt,kavahusd,tincusdt",
+  "data": [
+    {
+      "symbol": "babyusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "bobausdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "chadusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "apnbtc,gnxusdt,gasusdt,uipusdt,pstakeusdt,sxpusdt,ctcusdt,nftht,meetbtc,xrpbtc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "pstakeusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "gasusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "xrpbtc"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "ctcusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "sxpusdt"
+    }
+  ]
+},
+{
+  "symbols": "euroceur,bchusdt,riousdt,compusdt,forthbtc,xlmeth,phaeth,wavesbtc,cdcbtc,stakebtc",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "riousdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "bchusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "compusdt"
+    }
+  ]
+},
+{
+  "symbols": "wanusdt,gtht,competh,engbtc,qspeth,glmusdt,xtzusdt,asteth,trxusdc,etchusd",
+  "data": [
+    {
+      "symbol": "trxusdc",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "glmusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "xtzusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "wanusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "boringeth,flrusdt,bntbtc,prismausdt,linkhusd,cudosusdt,ethtusd,boxusdt,vvsusdt,sntbtc",
+  "data": [
+    {
+      "symbol": "prismausdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "ethtusd",
+      "taker-fee": 0,
+      "maker-fee": 0
+    },
+    {
+      "symbol": "flrusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "boxusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "cudosusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "ntusdt,solousdt,xemusdt,tbtc,nasusdt,ksmusdt,tnbusdt,unibtc,eoshusd,naseth",
+  "data": [
+    {
+      "symbol": "ntusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "xemusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "ksmusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "solousdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "astusdt,crvbtc,storeusdt,boringusdt,aavehusd,iiceth,cvxusdt,comusdt,lambht,pntbtc",
+  "data": [
+    {
+      "symbol": "cvxusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "comusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "storeusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "boringusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "docketh,sunbtc,dot2susdt,crobtc,renbtcbtc,rvnusdt,srneth,arpaht,agldusdt,nearusdc",
+  "data": [
+    {
+      "symbol": "sunbtc",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "agldusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "rvnusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "briseusdt,truusdt,maticusdd,polyxbtc,topcbtc,injbtc,upiusdt,promusdt,blzusdt,ruffeth",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "blzusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "promusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "briseusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "truusdt"
+    }
+  ]
+},
+{
+  "symbols": "movrusdt,klvusdt,hteth,myrousdt,letusdt,dacbtc,kcalusdd,elahusd,skmht,borgusdt",
+  "data": [
+    {
+      "symbol": "kcalusdd",
+      "taker-fee": 0,
+      "maker-fee": 0
+    },
+    {
+      "symbol": "movrusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "borgusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "klvusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "hteth",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "myrousdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "swftcusdc,ftibtc,ethbtc,quickusdt,zjltbtc,btmeth,kmdbtc,wbtcbtc,fct2usdt,tcnhusdt",
+  "data": [
+    {
+      "taker-fee": 0,
+      "symbol": "tcnhusdt",
+      "maker-fee": 0
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "fct2usdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "quickusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "ethbtc",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "wbtcbtc",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "pyrusdt,zrxhusd,bkbtbtc,stkbtc,dot2lusdt,mcontentusdt,jasmyusdt,breedusdt,zilhusd,arixusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "pyrusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "mcontentusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "jasmyusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "arixusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "breedusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "waneth,btceur,lovelyusdt,dtausdt,btcusdc,yfiusdt,c98usdt,vrtxusdt,luncustc,lokausdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "waneth"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "lovelyusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "btcusdc"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "c98usdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "yfiusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "lokausdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "vrtxusdt"
+    }
+  ]
+},
+{
+  "symbols": "veneth,smtusdt,yggusdt,pushbtc,lqtyusdt,usdchusd,bkbteth,unfiusdt,gxcbtc,mexbtc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "lqtyusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "smtusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "yggusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "unfiusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "toseth,geteth,osmousdt,rlcusdt,dogehusd,stakeusdt,paradoxusdt,mirbtc,sntusdt,bbfusdt",
+  "data": [
+    {
+      "symbol": "sntusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "bbfusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "osmousdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "paradoxusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "rlcusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "laiusdt,topbtc,tornusdt,swftcbtc,daousdt,pciusdt,firoeth,mdxbtc,htrusdt,wwyusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "swftcbtc"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "wwyusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "pciusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "laiusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "daousdt"
+    }
+  ]
+},
+{
+  "symbols": "whalesusdt,loveusdt,paiusdt,mineusdt,ctxc2xusdt,knceth,qspbtc,aurorausdt,beamxusdt,wooeth",
+  "data": [
+    {
+      "symbol": "whalesusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "mineusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "beamxusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "loveusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "aurorausdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "btc3lusdt,mbxusdt,mplusdt,xplausdt,trbusdt,xrp3susdt,primateusdt,stfusdt,lrceth,synusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "synusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "stfusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "mbxusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "xplausdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "trbusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "forthusdt,kmdeth,btmbtc,renhusd,qtumusdt,mubiusdt,eurocusdc,xtzusdc,gbpusdt,tenetusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "forthusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "qtumusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "gbpusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "tenetusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "mubiusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "gfusdt,sklbtc,sarosusdt,ipvusdt,smcwusdt,atomusdc,dtaeth,fitfiusdt,nbsbtc,satsusdt",
+  "data": [
+    {
+      "symbol": "smcwusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "ipvusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "gfusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "fitfiusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "satsusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "sarosusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "adausdd,ruffusdt,neohusd,elonusdt,jstusdd,trxbtc,covabtc,emusdt,linausdt,bttusdc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "trxbtc"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "bttusdc"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "emusdt"
+    },
+    {
+      "taker-fee": 0,
+      "maker-fee": 0,
+      "symbol": "jstusdd"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "linausdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "elonusdt"
+    }
+  ]
+},
+{
+  "symbols": "diausdt,qrdousdt,getbtc,kokusdt,soceth,gmeeusdt,wavesusdt,wifusdt,mtausdt,atpbtc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "gmeeusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "wifusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "qrdousdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "kokusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "wavesusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "diausdt"
+    }
+  ]
+},
+{
+  "symbols": "engeth,xlmusdc,mtht,antbtc,zksusdt,mireth,nodlusdt,vetusdt,stethusdt,zlaeth",
+  "data": [
+    {
+      "symbol": "stethusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "vetusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "nodlusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "xlmusdt,swftcusdt,memeusdt,qtumbtc,gxcusdt,stetheth,mdxeth,lunausdt,phausdt,nfpusdt",
+  "data": [
+    {
+      "symbol": "memeusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "nfpusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "phausdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "xlmusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "luncusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "stetheth",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "swftcusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "mtabtc,etcusdd,rndreth,apneth,ucbtc,lrcbtc,krrxusdt,embtc,zigusdt,sbtcbtc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "krrxusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "zigusdt"
+    }
+  ]
+},
+{
+  "symbols": "seanusdt,stptht,dotusdc,iguusdt,thetausdt,avaxusdc,tosbtc,mexeth,rlyusdt,minausdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "seanusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "iguusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "rlyusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "thetausdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "minausdt"
+    }
+  ]
+},
+{
+  "symbols": "lblusdt,socbtc,woobtc,gxceth,hiveusdt,talkusdt,bhdht,vrausdt,apnusdt,gearusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "hiveusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "vrausdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "lblusdt"
+    }
+  ]
+},
+{
+  "symbols": "swftceth,unbusdt,yccbtc,nestht,saousdt,covaeth,runeusdt,firobtc,irishusd,o3btc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "swftceth",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "saousdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "runeusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "unbusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "galausdt,trxusdt,chateth,rplusdt,dogeusdd,lhinuusdt,arknusdt,dtabtc,trxeth,kriptousdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "pgalausdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "trxusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "trxeth"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "rplusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "lhinuusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "arknusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "kriptousdt"
+    },
+    {
+      "maker-fee": 0,
+      "taker-fee": 0,
+      "symbol": "dogeusdd"
+    }
+  ]
+},
+{
+  "symbols": "anteth,injusdt,strxtrx,vinuusdt,hitusdt,wpreth,polsusdt,dypusdt,ektusdt,solusdc",
+  "data": [
+    {
+      "symbol": "dypusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "polsusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "vinuusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "injusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "strxtrx",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "rtebtc,trbbtc,veteth,linaeth,gmxusdt,mtaeth,newht,manausdc,snsusdt,kncbtc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "snsusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "gmxusdt"
+    }
+  ]
+},
+{
+  "symbols": "fttbtc,rcneth,mdxusdt,babydogeusdt,rndrusdt,paibtc,foxusdt,venusdt,aktusdt,eluusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "rndrusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "mdxusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "aktusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "babydogeusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "eluusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "blzbtc,fttusdt,atometh,cvcbtc,rcnbtc,linkbtc,balbtc,bonkusdt,glmbtc,iotxusdt",
+  "data": [
+    {
+      "symbol": "fttusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "bonkusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "iotxusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "linkbtc",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "loomusdt,rainusdt,spsusdt,zrxbtc,htusdd,abteth,fortheth,wndrusdt,klayusdt,xrpusdt",
+  "data": [
+    {
+      "maker-fee": 0,
+      "taker-fee": 0,
+      "symbol": "htusdd"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "rainusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "klayusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "spsusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "xrpusdt"
+    }
+  ]
+},
+{
+  "symbols": "bchbtc,nexoeth,zlabtc,manaeth,idexusdt,adaeth,musicusdt,ekteth,aqtusdt,chzusdd",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "musicusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "bchbtc",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "idexusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "aqtusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "audiousdt,etnusdt,poolxusdt,kcalusdt,firousdt,soleth,voltusdt,pnteth,stakeeth,edenusdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "audiousdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "etnusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "firousdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "kcalusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "voltusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "poolxusdt"
+    }
+  ]
+},
+{
+  "symbols": "onebtc,suneth,requsdt,bateth,mdsbtc,swrveth,arbtc,antexusdt,chrht,fsnbtc",
+  "data": [
+    {
+      "symbol": "requsdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "suneth",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "compbtc,usdcusdt,gasbtc,manbtc,xpetusdt,maskusdt,ankrusdt,btmusdt,renusdt,elabtc",
+  "data": [
+    {
+      "symbol": "ankrusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "maskusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "renusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "btmusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "xpetusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "usdcusdt",
+      "taker-fee": 0,
+      "maker-fee": 0
+    }
+  ]
+},
+{
+  "symbols": "propyusdt,kcashusdt,btgbtc,pundixbtc,polsbtc,dodousdt,shitusdt,uipbtc,insurusdt,appcbtc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "dodousdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "insurusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "propyusdt"
+    }
+  ]
+},
+{
+  "symbols": "rsrusdt,cotibtc,hptusdt,pluusdt,pandousdt,umaeth,polyxeth,o3usdt,xfiusdt,ocnusdt",
+  "data": [
+    {
+      "symbol": "xfiusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "pluusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "rsrusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "o3usdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "pandousdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "mlkusdt,fdtusdt,ruffbtc,xrpusdc,monousdt,astbtc,winusdt,bakeusdt,unihusd,bntusdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "winusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "mlkusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "monousdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "fdtusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "bntusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "bakeusdt"
+    }
+  ]
+},
+{
+  "symbols": "dorausdt,lmwrusdt,btcgbp,nasbtc,xcnusdt,xpntusdt,boringbtc,imxusdt,sprtusdt,lendusdt",
+  "data": [
+    {
+      "symbol": "lmwrusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "xpntusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "imxusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "xcnusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "dorausdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "sprtusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "btcgbp",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "ratsusdt,yamv2btc,rockusdt,brwlusdt,vsysusdt,lambbtc,forht,ktusdt,badgereth,mtxeth",
+  "data": [
+    {
+      "symbol": "vsysusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "ratsusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "lambbtc",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "brwlusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "rockusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "ktusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "adxbtc,dgdbtc,egldusdt,csprbtc,badgerusdt,arpabtc,xtzeth,altusdt,api3eth,pushusdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "badgerusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "altusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "egldusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "pushusdt"
+    }
+  ]
+},
+{
+  "symbols": "aeeth,luncusdt,fxsusdt,mntusdt,thetausdc,zeneth,vidyusdt,canbtc,rifiusdt,jupusdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "fxsusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "luncusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "jupusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "mntusdt"
+    }
+  ]
+},
+{
+  "symbols": "wldusdt,depusdt,btsbtc,sheeth,gqusdt,tonusdt,mirusdt,nakausdt,sxpbtc,boxeth",
+  "data": [
+    {
+      "symbol": "nakausdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "wldusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "gqusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "tonusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "depusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "egtbtc,algohusd,sceth,yggbtc,tnbeth,venbtc,capousdt,hifiusdt,ethusdc,thetaeth",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "ethusdc"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "hifiusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "capousdt"
+    }
+  ]
+},
+{
+  "symbols": "zec3susdt,yfiieth,daceth,lolusdt,rccceth,iotabtc,epikht,hbarusdt,ctxcbtc,skmbtc",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "hbarusdt"
+    }
+  ]
+},
+{
+  "symbols": "croht,nesthusd,rocousdt,moovusdt,htbtc,btctusd,ckbusdt,trxtusd,hivebtc,solusdt",
+  "data": [
+    {
+      "symbol": "trxtusd",
+      "taker-fee": 0,
+      "maker-fee": 0
+    },
+    {
+      "symbol": "moovusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "rocousdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "btctusd",
+      "taker-fee": 0,
+      "maker-fee": 0
+    },
+    {
+      "symbol": "solusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "ckbusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "bixbtc,manausdt,dfusdt,reneth,xprtusdt,topusdt,ttbtc,dockbtc,propyeth,usdthusd",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "dfusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "xprtusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "manausdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "topusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "kcasheth,eth1susdt,bnteth,bagsusdt,arvusdt,socusdt,celusdt,waveseth,apeusdd,wiccusdt",
+  "data": [
+    {
+      "symbol": "arvusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "wiccusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "mkrusdt,acsusdt,gnxeth,bethusdt,scusdt,massbtc,dgbeth,pearleth,disusdt,mcobtc",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "mkrusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "disusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "bethusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "acsusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "scusdt"
+    }
+  ]
+},
+{
+  "symbols": "revvusdt,tntbtc,cnnsbtc,chzbtc,aeusdt,koiusdt,mlnbtc,atpht,nexousdt,knchusd",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "nexousdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "revvusdt"
+    }
+  ]
+},
+{
+  "symbols": "renbtceth,poktusdt,iicbtc,hsfusdt,canusdt,eurocusdt,zechusd,dashusdt,iotxeth,spausdt",
+  "data": [
+    {
+      "symbol": "dashusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "spausdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "hsfusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "eurocusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "aceusdt,gofeth,elfeth,usdtbrl,xmxeth,dksusdt,sofibtc,fiseth,screamusdt,atomusdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "dksusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "elfeth"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "aceusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "atomusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "usdtbrl"
+    }
+  ]
+},
+{
+  "symbols": "hcbtc,sudousdt,dkabtc,mcousdt,ckbbtc,arpausdt,egameusdt,ergusdt,pixelusdt,xlmbtc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "pixelusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "arpausdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "ergusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "doseusdt,nulsbtc,daihusd,slcusdt,wlknusdt,reefbtc,icpbtc,bhdusdt,polyxusdt,orbsusdt",
+  "data": [
+    {
+      "symbol": "doseusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "polyxusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "wlknusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "orbsusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "phabtc,fnsabtc,desousdt,htxusdt,meeteth,ostbtc,piusdt,mtlusdt,turbousdt,xcadusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "mtlusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "desousdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "fnsabtc"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "turbousdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "htxusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "piusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "xcadusdt"
+    }
+  ]
+},
+{
+  "symbols": "csprusdt,titanbtc,sushieth,tonusdd,reiusdt,bblusdt,leteth,mtnbtc,egcceth,ftieth",
+  "data": [
+    {
+      "symbol": "csprusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "reiusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "bblusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "cnnsht,zksbtc,nestbtc,sspbtc,botusdt,pbrusdt,winusdd,aacbtc,strkusdt,pepeusdt",
+  "data": [
+    {
+      "symbol": "pepeusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "pbrusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "strkusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "winusdd",
+      "taker-fee": 0,
+      "maker-fee": 0
+    }
+  ]
+},
+{
+  "symbols": "woofusdt,swrvusdt,crvhusd,dacusdt,dzoousdt,iostht,hbcht,ftmusdt,betheth,atmusdt",
+  "data": [
+    {
+      "symbol": "ftmusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "atmusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "betheth",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "woofusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "adausdc,ogusdt,mdxht,datxeth,omghusd,ltc3lusdt,bttusdt,nsurebtc,fileth,bcxbtc",
+  "data": [
+    {
+      "symbol": "bttusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "ogusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "arusdt,evxeth,dexeusdt,skuusdt,etnbtc,bsvhusd,hcusdt,ustcusdt,bhdbtc,lendeth",
+  "data": [
+    {
+      "maker-fee": 0,
+      "taker-fee": 0,
+      "symbol": "ustcusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "arusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "dexeusdt"
+    }
+  ]
+},
+{
+  "symbols": "sdnusdt,wifiusdt,xchusdt,peopleusdt,btc1susdt,unqusdt,buteth,vpadusdt,eoseth,traceusdt",
+  "data": [
+    {
+      "symbol": "peopleusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "sdnusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "unqusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "wifiusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "xchusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "vpadusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "traceusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "grteth,steemeth,egtht,osteth,nsureeth,kctusdt,ethusdd,pvtht,aiusdt,ampusdt",
+  "data": [
+    {
+      "maker-fee": 0,
+      "taker-fee": 0,
+      "symbol": "ethusdd"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "aiusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "kctusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "ampusdt"
+    }
+  ]
+},
+{
+  "symbols": "vrusdt,gtbtc,sfundusdt,yfibtc,insureth,erthausdt,ocneth,waxpeth,1incheth,linkusdt",
+  "data": [
+    {
+      "symbol": "linkusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "sfundusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "erthausdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "vrusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "linkusdd,nsureusdt,ptcbtc,polcusdt,bitciusdt,waxpusdt,ncceth,alt0usdt,hbarusdc,paybtc",
+  "data": [
+    {
+      "symbol": "polcusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "alt0usdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "waxpusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "bitciusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "nsureusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "egldusdc,iotxbtc,steemusdt,hceth,usnusdt,balhusd,zenusdt,newbtc,crohusd,insurbtc",
+  "data": [
+    {
+      "symbol": "steemusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "zenusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "phbusdt,ethwusdt,gvrusdt,lbpusdt,xecusdt,aiozusdt,zbcusdt,faceusdt,ogobtc,dfausdt",
+  "data": [
+    {
+      "symbol": "faceusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "aiozusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "ethwoldusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "xecusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "phbusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "zbcusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "lbpusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "ftiusdt,neareth,ocnbtc,lxteth,ardreth,berryusdt,oneusdt,sushiusdt,mrsusdt,etheuroc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "ftiusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "oneusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "mrsusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "berryusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "sushiusdt"
+    }
+  ]
+},
+{
+  "symbols": "orbusdt,flzusdt,achbtc,fil3susdt,fnsausdt,usdttry,gstusdt,ethusdt,sunusdt,stgusdt",
+  "data": [
+    {
+      "symbol": "stgusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "fnsausdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "ethusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "usdttry",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "orbusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "flzusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "sunusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "achbtc",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "bxenusdt,batusdt,ognht,hthusd,akrousdt,ctxcusdt,rvnbtc,fsnht,pyusdusdt,rankerusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "rankerusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "akrousdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "bxenusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "batusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0,
+      "symbol": "pyusdusdt",
+      "maker-fee": 0
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "ctxcusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "strmusdt,cvcusdt,likeusdt,uniusdd,cvnteth,btcrub,xetausdt,wemixusdt,qasheth,mtlbtc",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "btcrub"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "cvcusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "likeusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "xetausdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "strmusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "wemixusdt"
+    }
+  ]
+},
+{
+  "symbols": "grtusdt,fairbtc,wxtbtc,grseth,lolbtc,ksmht,idteth,stptusdt,sukuusdt,muusdt",
+  "data": [
+    {
+      "symbol": "stptusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "sukuusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "grtusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "bifibtc,omgbtc,scbtc,zerousdt,uuueth,xmxusdt,caneth,actusdt,qtumhusd,ernusdt",
+  "data": [
+    {
+      "symbol": "zerousdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "actusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "ernusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "metisusdt,cvnxeth,steembtc,srmbtc,chzusdc,nftusdc,gnsusdt,auctionusdt,xchbtc,yamv2eth",
+  "data": [
+    {
+      "symbol": "gnsusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "nftusdc",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "metisusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "auctionusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "pvtusdt,btc3susdt,lootusdt,wbtusdt,signusdt,latusdt,cnnsusdt,bixusdt,poolzusdt,gftusdt",
+  "data": [
+    {
+      "symbol": "wbtusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "lootusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "signusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "gftusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "latusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "qomusdt,lsdusdt,tracusdt,ioiusdt,mcoeth,butbtc,stcusdt,diousdt,filusdc,tlosusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "lsdusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "tlosusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "stcusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "diousdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "tracusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "numusdt,bitusdt,salteth,pundixeth,nanobtc,maticbtc,maskusdd,fxusdt,pceth,elfusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "elfusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "fxusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "maticbtc"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "numusdt"
+    }
+  ]
+},
+{
+  "symbols": "ccrowdusdt,wojakusdt,smileyusdt,radarusdt,bchausdt,olandusdt,ugaseth,movezusdt,xrpusdd,joeusdt",
+  "data": [
+    {
+      "symbol": "xrpusdd",
+      "taker-fee": 0,
+      "maker-fee": 0
+    },
+    {
+      "symbol": "joeusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "movezusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "olandusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "ccrowdusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "smileyusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "wojakusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "grvusdt,hptbtc,nknht,orcusdt,neobtc,btsusdt,weusdt,rcccusdt,pearlusdt,aptusdd",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "orcusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "btsusdt"
+    },
+    {
+      "maker-fee": 0,
+      "taker-fee": 0,
+      "symbol": "aptusdd"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "weusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "grvusdt"
+    }
+  ]
+},
+{
+  "symbols": "wicceth,yambtc,mkreth,nftusdt,adpusdt,mxcusdt,oasusdt,fildausdt,ltchusd,dgbbtc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "mxcusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "nftusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "oasusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "dgbbtc"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "adpusdt"
+    }
+  ]
+},
+{
+  "symbols": "yfihusd,lmrusdt,gscbtc,nexobtc,bt2btc,fisusdt,abtbtc,dbceth,nctusdt,htusdc",
+  "data": [
+    {
+      "symbol": "fisusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "renbtc,superusdt,propybtc,zedusdt,lenausdt,whaleusdt,sandusdc,fsnusdt,dfht,ksmhusd",
+  "data": [
+    {
+      "symbol": "propybtc",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "lenausdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "superusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "zedusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "whaleusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "fsnusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "ringbtc,triobtc,zecbtc,algousdt,api3usdt,opusdt,onteth,dogebtc,ldousdt,azerousdt",
+  "data": [
+    {
+      "symbol": "dogebtc",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "azerousdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "ldousdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "algousdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "opusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "api3usdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "mantausdt,solusdd,bicousdt,avaxusdd,dogusdt,tavausdt,mdseth,lunbtc,reqbtc,mxht",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "tavausdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "bicousdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "mantausdt"
+    }
+  ]
+},
+{
+  "symbols": "apeusdt,prqusdt,ssxusdt,etcusdc,fildaeth,linkusdc,gearboxusdt,titaneth,usdtuah,icxeth",
+  "data": [
+    {
+      "symbol": "prqusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "gearboxusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "apeusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "usdtuah",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "ssxusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "fronteth,zuzaluusdt,dashbtc,toxusdt,oxteth,maviausdt,paalusdt,balusdt,batbtc,xmrbtc",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "maviausdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "balusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "zuzaluusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "toxusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "paalusdt"
+    }
+  ]
+},
+{
+  "symbols": "umabtc,hiveht,1inchusdt,trollusdt,lymbtc,eth3susdt,invusdt,kcashbtc,iriseth,fttusdd",
+  "data": [
+    {
+      "symbol": "trollusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "1inchusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "fttusdd",
+      "taker-fee": 0,
+      "maker-fee": 0
+    }
+  ]
+},
+{
+  "symbols": "floweth,zkfusdt,kubeusdt,utusdt,tlmusdt,boteth,mcrtusdt,abbcusdt,dcreth,dckusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "tlmusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "mcrtusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "dckusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "zkfusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "abbcusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "kubeusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "utusdt"
+    }
+  ]
+},
+{
+  "symbols": "dateth,cotiusdt,gtusdt,vethusd,sosusdt,mapusdt,hotcrossusdt,18ceth,eosusdc,tomsusdt",
+  "data": [
+    {
+      "symbol": "cotiusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "hotcrossusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "tomsusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "mapusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "gtusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "swrvbtc,cyberusdt,eulusdc,poohusdt,yfiiusdt,argusdt,hypeusdt,iotaeth,pondbtc,axsbtc",
+  "data": [
+    {
+      "symbol": "hypeusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "yfiiusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "argusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "cyberusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "poohusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "ancusdt,etneth,hydrobtc,baleth,ankrbtc,mcgusdt,nuusdt,seelebtc,gmtusdt,mdsusdt",
+  "data": [
+    {
+      "symbol": "gmtusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "sushibtc,ghstusdt,bchht,jumbousdt,appceth,dkausdt,fuseusdt,btcuah,snxeth,sweatusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "sweatusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "fuseusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "ghstusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "jumbousdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "btcuah",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "dkausdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "davusdt,zenbtc,zec3lusdt,bcveth,acteth,yamv2usdt,mxcbtc,flzusdc,loometh,gmpdusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "davusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "gmpdusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "flzusdc"
+    }
+  ]
+},
+{
+  "symbols": "lymeth,tomiusdt,cnneth,ringeth,snceth,dfiusdt,algobtc,adausdt,edueth,stnbtc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "tomiusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "dfiusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "adausdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "snceth"
+    }
+  ]
+},
+{
+  "symbols": "kicksusdt,nubtc,wenusdt,mmfusdt,suiusdt,18cbtc,utkusdt,ltcht,bwousdt,mesausdt",
+  "data": [
+    {
+      "symbol": "mesausdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "wenusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "bwousdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "suiusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "kicksusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "utkusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "iostbtc,zilbtc,dogeeth,datbtc,dcrusdt,hbcbtc,cbkusdt,reqeth,abtusdt,rvnht",
+  "data": [
+    {
+      "symbol": "dcrusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "cbkusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "trioeth,dcusdt,brtusdt,navxusdt,everusdt,wtcusdt,enjusdt,bchabtc,causdt,hoopusdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "dcusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "wtcusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "enjusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "navxusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "everusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "causdt"
+    }
+  ]
+},
+{
+  "symbols": "warusdt,pearlbtc,dotusdd,artyusdt,akroht,axsusdt,ftmusdc,masseth,magicusdt,sylousdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "artyusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "sylousdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "magicusdt"
+    },
+    {
+      "maker-fee": 0,
+      "taker-fee": 0,
+      "symbol": "dotusdd"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "axsusdt"
+    }
+  ]
+},
+{
+  "symbols": "platousdt,yfiibtc,skmusdt,hbareth,flowbtc,xdcusdt,pythusdt,jstusdt,actbtc,axsusdc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "jstusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "xdcusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "pythusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "rdneth,boousdt,spellfireusdt,mboxusdt,botbtc,ssvusdt,auctioneth,aliceusdt,tribeusdt,bsv3lusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "mboxusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "ssvusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "tribeusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "aliceusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "spellfireusdt"
+    }
+  ]
+},
+{
+  "symbols": "wsmusdt,kaiusdt,elausdt,edubtc,mevusdt,clvbtc,ckbht,cnnbtc,utkbtc,bsvbtc",
+  "data": [
+    {
+      "symbol": "kaiusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "mevusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "wsmusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "elausdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "iotausdt,enjbtc,titanusdt,ognusdt,muskusdt,monfterbtc,zrxusdt,hydroeth,algoeth,stneth",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "titanusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "muskusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "zrxusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "iotausdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "ognusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "yeebtc,dfxusdt,arbusdt,acausdt,bobusdt,sncbtc,eulusdt,thetahusd,nymusdt,analosusdt",
+  "data": [
+    {
+      "symbol": "acausdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "eulusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "sncbtc",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "nymusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "analosusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "bobusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "arbusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "iostusdt,uni2susdt,clvusdt,aaveusdc,trxusdd,iosteth,muskbtc,dothusd,zrxeth,hydrousdt",
+  "data": [
+    {
+      "symbol": "trxusdd",
+      "maker-fee": 0,
+      "taker-fee": 0
+    },
+    {
+      "symbol": "clvusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "iostusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "rabusdt,lvnusdt,dfbtc,pvtbtc,adabtc,idtbtc,seiusdt,wiccbtc,chsbusdt,loombtc",
+  "data": [
+    {
+      "symbol": "adabtc",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "seiusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "rabusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "lvnusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "galftusdt,juvusdt,swapusdt,jstbtc,powreth,irisusdt,tribebtc,anvusdt,mcusdt,srtusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "juvusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "swapusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "anvusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "jstbtc"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "srtusdt"
+    }
+  ]
+},
+{
+  "symbols": "npxseth,eurusdt,apedusdt,bcdbtc,vsysbtc,bandhusd,xtmusdt,xtzhusd,nhbtcusdt,wxtusdt",
+  "data": [
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "apedusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "wxtusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "xtmusdt"
+    },
+    {
+      "maker-fee": 0.002,
+      "taker-fee": 0.002,
+      "symbol": "eurusdt"
+    }
+  ]
+},
+{
+  "symbols": "yeeusdt,ognbtc,grokusdt,etcusdt,opusdc,eth3lusdt,massusdt,multiusdt,tdxusdt,skebusdt",
+  "data": [
+    {
+      "symbol": "etcusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "skebusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "tdxusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "grokusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    },
+    {
+      "symbol": "multiusdt",
+      "maker-fee": 0.002,
+      "taker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "enjeth,doviusdt,onstonusdt,bpusdt,cubeusdt,wtcbtc,crubtc,npxsbtc,zileth,orbrusdt",
+  "data": [
+    {
+      "symbol": "orbrusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    },
+    {
+      "symbol": "doviusdt",
+      "taker-fee": 0.002,
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "unibotusdt,utketh,wtceth,benjiusdt,colusdt,xautusdt,powrbtc,bchhusd,mkrbtc,pundixusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "symbol": "colusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "pundixusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "xautusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "benjiusdt",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "powrbtc",
+      "maker-fee": 0.002
+    },
+    {
+      "taker-fee": 0.002,
+      "symbol": "unibotusdt",
+      "maker-fee": 0.002
+    }
+  ]
+},
+{
+  "symbols": "neousdt,dechatusdt,ogoht,vidybtc,yeeeth,monftereth,musketh,fiuusdt,ttusdt,sorausdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "sorausdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "ttusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "dechatusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "neousdt"
+    }
+  ]
+},
+{
+  "symbols": "umausdt,zkpusdt,mongusdt,sisusdt,elaeth,xlmhusd,creht,octusdt,gsceth,egtusdt",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "zkpusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "mongusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "octusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "sisusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "umausdt"
+    }
+  ]
+},
+{
+  "symbols": "hbarbtc,onitusdt,sandusdt,fancusdt,chrbtc,pgalausdt,ringusdt,maticusdc",
+  "data": [
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "sandusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "onitusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "ringusdt"
+    },
+    {
+      "taker-fee": 0.002,
+      "maker-fee": 0.002,
+      "symbol": "fancusdt"
+    }
+  ]
+}
+]

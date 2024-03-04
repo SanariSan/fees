@@ -1,0 +1,4130 @@
+[
+  {
+    "symbol": "MKRUSDT",
+    "fees": {
+      "symbol": "MKRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETHWUSDT",
+    "fees": {
+      "symbol": "ETHWUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FXSUSDT",
+    "fees": {
+      "symbol": "FXSUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "PEOPLEUSDT",
+    "fees": {
+      "symbol": "PEOPLEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CHRUSDT",
+    "fees": {
+      "symbol": "CHRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BNTUSDT",
+    "fees": {
+      "symbol": "BNTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ARKMUSDT",
+    "fees": {
+      "symbol": "ARKMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "WAXPUSDT",
+    "fees": {
+      "symbol": "WAXPUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AXSUSDT",
+    "fees": {
+      "symbol": "AXSUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BTC-26APR24",
+    "fees": {
+      "symbol": "BTC-26APR24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CEEKUSDT",
+    "fees": {
+      "symbol": "CEEKUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MKRUSDT",
+    "fees": {
+      "symbol": "MKRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "APEUSDT",
+    "fees": {
+      "symbol": "APEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ARKUSDT",
+    "fees": {
+      "symbol": "ARKUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "NEOUSDT",
+    "fees": {
+      "symbol": "NEOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AVAXUSDT",
+    "fees": {
+      "symbol": "AVAXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MANAUSD",
+    "fees": {
+      "symbol": "MANAUSD",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BIGTIMEUSDT",
+    "fees": {
+      "symbol": "BIGTIMEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "DENTUSDT",
+    "fees": {
+      "symbol": "DENTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETH-15MAR24",
+    "fees": {
+      "symbol": "ETH-15MAR24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "QNTUSDT",
+    "fees": {
+      "symbol": "QNTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CAKEUSDT",
+    "fees": {
+      "symbol": "CAKEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "METISUSDT",
+    "fees": {
+      "symbol": "METISUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ATOMUSDT",
+    "fees": {
+      "symbol": "ATOMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "METISUSDT",
+    "fees": {
+      "symbol": "METISUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MOBILEUSDT",
+    "fees": {
+      "symbol": "MOBILEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BALUSDT",
+    "fees": {
+      "symbol": "BALUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "NFPUSDT",
+    "fees": {
+      "symbol": "NFPUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TIAUSDT",
+    "fees": {
+      "symbol": "TIAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TRBUSDT",
+    "fees": {
+      "symbol": "TRBUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SANDUSDT",
+    "fees": {
+      "symbol": "SANDUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SOLPERP",
+    "fees": {
+      "symbol": "SOLPERP",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "IOSTUSDT",
+    "fees": {
+      "symbol": "IOSTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "10000STARLUSDT",
+    "fees": {
+      "symbol": "10000STARLUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "COMBOUSDT",
+    "fees": {
+      "symbol": "COMBOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XRPUSDT",
+    "fees": {
+      "symbol": "XRPUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XVSUSDT",
+    "fees": {
+      "symbol": "XVSUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000XECUSDT",
+    "fees": {
+      "symbol": "1000XECUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FETUSDT",
+    "fees": {
+      "symbol": "FETUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "UMAUSDT",
+    "fees": {
+      "symbol": "UMAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "QNTUSDT",
+    "fees": {
+      "symbol": "QNTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "HIGHUSDT",
+    "fees": {
+      "symbol": "HIGHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TWTUSDT",
+    "fees": {
+      "symbol": "TWTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BSVUSDT",
+    "fees": {
+      "symbol": "BSVUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "10000NFTUSDT",
+    "fees": {
+      "symbol": "10000NFTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000BONKUSDT",
+    "fees": {
+      "symbol": "1000BONKUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GASUSDT",
+    "fees": {
+      "symbol": "GASUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "COREUSDT",
+    "fees": {
+      "symbol": "COREUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CELOUSDT",
+    "fees": {
+      "symbol": "CELOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fees": {
+      "symbol": "LTCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "10000STARLUSDT",
+    "fees": {
+      "symbol": "10000STARLUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CROUSDT",
+    "fees": {
+      "symbol": "CROUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "WIFUSDT",
+    "fees": {
+      "symbol": "WIFUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RUNEUSDT",
+    "fees": {
+      "symbol": "RUNEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AMBUSDT",
+    "fees": {
+      "symbol": "AMBUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "WAVESUSDT",
+    "fees": {
+      "symbol": "WAVESUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000BTTUSDT",
+    "fees": {
+      "symbol": "1000BTTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "WAXPUSDT",
+    "fees": {
+      "symbol": "WAXPUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BSWUSDT",
+    "fees": {
+      "symbol": "BSWUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BTC-15MAR24",
+    "fees": {
+      "symbol": "BTC-15MAR24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MNTUSDT",
+    "fees": {
+      "symbol": "MNTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000XECUSDT",
+    "fees": {
+      "symbol": "1000XECUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ONGUSDT",
+    "fees": {
+      "symbol": "ONGUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "KASUSDT",
+    "fees": {
+      "symbol": "KASUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "STRKUSDT",
+    "fees": {
+      "symbol": "STRKUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "HOOKUSDT",
+    "fees": {
+      "symbol": "HOOKUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ADAUSDT",
+    "fees": {
+      "symbol": "ADAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BATUSDT",
+    "fees": {
+      "symbol": "BATUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "OMGUSDT",
+    "fees": {
+      "symbol": "OMGUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "PIXELUSDT",
+    "fees": {
+      "symbol": "PIXELUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ONTUSDT",
+    "fees": {
+      "symbol": "ONTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FORTHUSDT",
+    "fees": {
+      "symbol": "FORTHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "NFPUSDT",
+    "fees": {
+      "symbol": "NFPUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RNDRUSDT",
+    "fees": {
+      "symbol": "RNDRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "COMPUSDT",
+    "fees": {
+      "symbol": "COMPUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AIUSDT",
+    "fees": {
+      "symbol": "AIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TLMUSDT",
+    "fees": {
+      "symbol": "TLMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ATAUSDT",
+    "fees": {
+      "symbol": "ATAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MDTUSDT",
+    "fees": {
+      "symbol": "MDTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETHUSDM24",
+    "fees": {
+      "symbol": "ETHUSDM24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AERGOUSDT",
+    "fees": {
+      "symbol": "AERGOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FXSUSDT",
+    "fees": {
+      "symbol": "FXSUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RVNUSDT",
+    "fees": {
+      "symbol": "RVNUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MOBILEUSDT",
+    "fees": {
+      "symbol": "MOBILEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "10000LADYSUSDT",
+    "fees": {
+      "symbol": "10000LADYSUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SUPERUSDT",
+    "fees": {
+      "symbol": "SUPERUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TRUUSDT",
+    "fees": {
+      "symbol": "TRUUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FLRUSDT",
+    "fees": {
+      "symbol": "FLRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000BTTUSDT",
+    "fees": {
+      "symbol": "1000BTTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BATUSDT",
+    "fees": {
+      "symbol": "BATUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CVXUSDT",
+    "fees": {
+      "symbol": "CVXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "NEOUSDT",
+    "fees": {
+      "symbol": "NEOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "OPUSDT",
+    "fees": {
+      "symbol": "OPUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "NFPUSDT",
+    "fees": {
+      "symbol": "NFPUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "JOEUSDT",
+    "fees": {
+      "symbol": "JOEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MANTAUSDT",
+    "fees": {
+      "symbol": "MANTAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RADUSDT",
+    "fees": {
+      "symbol": "RADUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "LUNA2USDT",
+    "fees": {
+      "symbol": "LUNA2USDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "DENTUSDT",
+    "fees": {
+      "symbol": "DENTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "IOSTUSDT",
+    "fees": {
+      "symbol": "IOSTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MTLUSDT",
+    "fees": {
+      "symbol": "MTLUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "PYTHUSDT",
+    "fees": {
+      "symbol": "PYTHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "fees": {
+      "symbol": "DOGEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MEMEUSDT",
+    "fees": {
+      "symbol": "MEMEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "DASHUSDT",
+    "fees": {
+      "symbol": "DASHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ONEUSDT",
+    "fees": {
+      "symbol": "ONEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ALICEUSDT",
+    "fees": {
+      "symbol": "ALICEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fees": {
+      "symbol": "ETHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RAREUSDT",
+    "fees": {
+      "symbol": "RAREUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XCNUSDT",
+    "fees": {
+      "symbol": "XCNUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "POLYXUSDT",
+    "fees": {
+      "symbol": "POLYXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000BTTUSDT",
+    "fees": {
+      "symbol": "1000BTTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1CATUSDT",
+    "fees": {
+      "symbol": "1CATUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MNTUSDT",
+    "fees": {
+      "symbol": "MNTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TRXUSDT",
+    "fees": {
+      "symbol": "TRXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FITFIUSDT",
+    "fees": {
+      "symbol": "FITFIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "DODOUSDT",
+    "fees": {
+      "symbol": "DODOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AUDIOUSDT",
+    "fees": {
+      "symbol": "AUDIOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SOLPERP",
+    "fees": {
+      "symbol": "SOLPERP",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "POLYXUSDT",
+    "fees": {
+      "symbol": "POLYXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "APEUSDT",
+    "fees": {
+      "symbol": "APEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ARKUSDT",
+    "fees": {
+      "symbol": "ARKUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fees": {
+      "symbol": "ETCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TONUSDT",
+    "fees": {
+      "symbol": "TONUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BSWUSDT",
+    "fees": {
+      "symbol": "BSWUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "PENDLEUSDT",
+    "fees": {
+      "symbol": "PENDLEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CEEKUSDT",
+    "fees": {
+      "symbol": "CEEKUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CETUSUSDT",
+    "fees": {
+      "symbol": "CETUSUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "COTIUSDT",
+    "fees": {
+      "symbol": "COTIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AGIXUSDT",
+    "fees": {
+      "symbol": "AGIXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GODSUSDT",
+    "fees": {
+      "symbol": "GODSUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SOLUSDT",
+    "fees": {
+      "symbol": "SOLUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FORTHUSDT",
+    "fees": {
+      "symbol": "FORTHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "PAXGUSDT",
+    "fees": {
+      "symbol": "PAXGUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000BTTUSDT",
+    "fees": {
+      "symbol": "1000BTTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ATOMUSDT",
+    "fees": {
+      "symbol": "ATOMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BELUSDT",
+    "fees": {
+      "symbol": "BELUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FTMUSDT",
+    "fees": {
+      "symbol": "FTMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "STGUSDT",
+    "fees": {
+      "symbol": "STGUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XCNUSDT",
+    "fees": {
+      "symbol": "XCNUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MAGICUSDT",
+    "fees": {
+      "symbol": "MAGICUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SOLPERP",
+    "fees": {
+      "symbol": "SOLPERP",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "WIFUSDT",
+    "fees": {
+      "symbol": "WIFUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BTC-15MAR24",
+    "fees": {
+      "symbol": "BTC-15MAR24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETH-15MAR24",
+    "fees": {
+      "symbol": "ETH-15MAR24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BAKEUSDT",
+    "fees": {
+      "symbol": "BAKEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AIUSDT",
+    "fees": {
+      "symbol": "AIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "JASMYUSDT",
+    "fees": {
+      "symbol": "JASMYUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BTCUSDT",
+    "fees": {
+      "symbol": "BTCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETH-28JUN24",
+    "fees": {
+      "symbol": "ETH-28JUN24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "10000STARLUSDT",
+    "fees": {
+      "symbol": "10000STARLUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FTMUSDT",
+    "fees": {
+      "symbol": "FTMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XAIUSDT",
+    "fees": {
+      "symbol": "XAIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fees": {
+      "symbol": "ZRXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "METISUSDT",
+    "fees": {
+      "symbol": "METISUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ARKMUSDT",
+    "fees": {
+      "symbol": "ARKMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RNDRUSDT",
+    "fees": {
+      "symbol": "RNDRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BTCUSDM24",
+    "fees": {
+      "symbol": "BTCUSDM24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fees": {
+      "symbol": "HOTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ARPAUSDT",
+    "fees": {
+      "symbol": "ARPAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ONTUSDT",
+    "fees": {
+      "symbol": "ONTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MDTUSDT",
+    "fees": {
+      "symbol": "MDTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FUNUSDT",
+    "fees": {
+      "symbol": "FUNUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XVSUSDT",
+    "fees": {
+      "symbol": "XVSUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ZECUSDT",
+    "fees": {
+      "symbol": "ZECUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RPLUSDT",
+    "fees": {
+      "symbol": "RPLUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETH-27SEP24",
+    "fees": {
+      "symbol": "ETH-27SEP24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FLRUSDT",
+    "fees": {
+      "symbol": "FLRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CROUSDT",
+    "fees": {
+      "symbol": "CROUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ONGUSDT",
+    "fees": {
+      "symbol": "ONGUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "10000NFTUSDT",
+    "fees": {
+      "symbol": "10000NFTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fees": {
+      "symbol": "ETHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETH-29MAR24",
+    "fees": {
+      "symbol": "ETH-29MAR24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SUNUSDT",
+    "fees": {
+      "symbol": "SUNUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GMTUSDT",
+    "fees": {
+      "symbol": "GMTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETH-27SEP24",
+    "fees": {
+      "symbol": "ETH-27SEP24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000BTTUSDT",
+    "fees": {
+      "symbol": "1000BTTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BANDUSDT",
+    "fees": {
+      "symbol": "BANDUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FITFIUSDT",
+    "fees": {
+      "symbol": "FITFIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "C98USDT",
+    "fees": {
+      "symbol": "C98USDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BSWUSDT",
+    "fees": {
+      "symbol": "BSWUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1INCHUSDT",
+    "fees": {
+      "symbol": "1INCHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "POLYXUSDT",
+    "fees": {
+      "symbol": "POLYXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "JOEUSDT",
+    "fees": {
+      "symbol": "JOEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MNTUSDT",
+    "fees": {
+      "symbol": "MNTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ORDIUSDT",
+    "fees": {
+      "symbol": "ORDIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "KNCUSDT",
+    "fees": {
+      "symbol": "KNCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MULTIUSDT",
+    "fees": {
+      "symbol": "MULTIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BNXUSDT",
+    "fees": {
+      "symbol": "BNXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETHUSD",
+    "fees": {
+      "symbol": "ETHUSD",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ATAUSDT",
+    "fees": {
+      "symbol": "ATAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MDTUSDT",
+    "fees": {
+      "symbol": "MDTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "10000LADYSUSDT",
+    "fees": {
+      "symbol": "10000LADYSUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SUNUSDT",
+    "fees": {
+      "symbol": "SUNUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SLPUSDT",
+    "fees": {
+      "symbol": "SLPUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FETUSDT",
+    "fees": {
+      "symbol": "FETUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ROSEUSDT",
+    "fees": {
+      "symbol": "ROSEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BTC-26APR24",
+    "fees": {
+      "symbol": "BTC-26APR24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RENUSDT",
+    "fees": {
+      "symbol": "RENUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XRPUSD",
+    "fees": {
+      "symbol": "XRPUSD",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BNXUSDT",
+    "fees": {
+      "symbol": "BNXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ASTRUSDT",
+    "fees": {
+      "symbol": "ASTRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "NTRNUSDT",
+    "fees": {
+      "symbol": "NTRNUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ONEUSDT",
+    "fees": {
+      "symbol": "ONEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ASTRUSDT",
+    "fees": {
+      "symbol": "ASTRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000PEPEUSDT",
+    "fees": {
+      "symbol": "1000PEPEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MULTIUSDT",
+    "fees": {
+      "symbol": "MULTIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BONDUSDT",
+    "fees": {
+      "symbol": "BONDUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "OGUSDT",
+    "fees": {
+      "symbol": "OGUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETCPERP",
+    "fees": {
+      "symbol": "ETCPERP",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MANTAUSDT",
+    "fees": {
+      "symbol": "MANTAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FUNUSDT",
+    "fees": {
+      "symbol": "FUNUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CELRUSDT",
+    "fees": {
+      "symbol": "CELRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "WOOUSDT",
+    "fees": {
+      "symbol": "WOOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AIUSDT",
+    "fees": {
+      "symbol": "AIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "APEUSDT",
+    "fees": {
+      "symbol": "APEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fees": {
+      "symbol": "MANAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "10000NFTUSDT",
+    "fees": {
+      "symbol": "10000NFTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "NEARUSDT",
+    "fees": {
+      "symbol": "NEARUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "YFIUSDT",
+    "fees": {
+      "symbol": "YFIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "UNFIUSDT",
+    "fees": {
+      "symbol": "UNFIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BLZUSDT",
+    "fees": {
+      "symbol": "BLZUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CHZUSDT",
+    "fees": {
+      "symbol": "CHZUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ZENUSDT",
+    "fees": {
+      "symbol": "ZENUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "OCEANUSDT",
+    "fees": {
+      "symbol": "OCEANUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SPELLUSDT",
+    "fees": {
+      "symbol": "SPELLUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "WIFUSDT",
+    "fees": {
+      "symbol": "WIFUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "UMAUSDT",
+    "fees": {
+      "symbol": "UMAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "IOTAUSDT",
+    "fees": {
+      "symbol": "IOTAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "WLDUSDT",
+    "fees": {
+      "symbol": "WLDUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RADUSDT",
+    "fees": {
+      "symbol": "RADUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ORDIUSDT",
+    "fees": {
+      "symbol": "ORDIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RSRUSDT",
+    "fees": {
+      "symbol": "RSRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CVCUSDT",
+    "fees": {
+      "symbol": "CVCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MATICUSDT",
+    "fees": {
+      "symbol": "MATICUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "IOSTUSDT",
+    "fees": {
+      "symbol": "IOSTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "STGUSDT",
+    "fees": {
+      "symbol": "STGUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TOKENUSDT",
+    "fees": {
+      "symbol": "TOKENUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ANKRUSDT",
+    "fees": {
+      "symbol": "ANKRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BTC-29MAR24",
+    "fees": {
+      "symbol": "BTC-29MAR24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "HNTUSDT",
+    "fees": {
+      "symbol": "HNTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BSVUSDT",
+    "fees": {
+      "symbol": "BSVUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SILLYUSDT",
+    "fees": {
+      "symbol": "SILLYUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ALICEUSDT",
+    "fees": {
+      "symbol": "ALICEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AUCTIONUSDT",
+    "fees": {
+      "symbol": "AUCTIONUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "KEYUSDT",
+    "fees": {
+      "symbol": "KEYUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "LQTYUSDT",
+    "fees": {
+      "symbol": "LQTYUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AGLDUSDT",
+    "fees": {
+      "symbol": "AGLDUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TOMIUSDT",
+    "fees": {
+      "symbol": "TOMIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "JASMYUSDT",
+    "fees": {
+      "symbol": "JASMYUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ONEUSDT",
+    "fees": {
+      "symbol": "ONEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "PERPUSDT",
+    "fees": {
+      "symbol": "PERPUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "NEOUSDT",
+    "fees": {
+      "symbol": "NEOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BTC-15MAR24",
+    "fees": {
+      "symbol": "BTC-15MAR24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "HOTUSDT",
+    "fees": {
+      "symbol": "HOTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETH-22MAR24",
+    "fees": {
+      "symbol": "ETH-22MAR24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fees": {
+      "symbol": "ETHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "DARUSDT",
+    "fees": {
+      "symbol": "DARUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "UNFIUSDT",
+    "fees": {
+      "symbol": "UNFIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CEEKUSDT",
+    "fees": {
+      "symbol": "CEEKUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "PROMUSDT",
+    "fees": {
+      "symbol": "PROMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "NTRNUSDT",
+    "fees": {
+      "symbol": "NTRNUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XAIUSDT",
+    "fees": {
+      "symbol": "XAIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "YFIIUSDT",
+    "fees": {
+      "symbol": "YFIIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BSVUSDT",
+    "fees": {
+      "symbol": "BSVUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1INCHUSDT",
+    "fees": {
+      "symbol": "1INCHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "QIUSDT",
+    "fees": {
+      "symbol": "QIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TLMUSDT",
+    "fees": {
+      "symbol": "TLMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "USTCUSDT",
+    "fees": {
+      "symbol": "USTCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XVGUSDT",
+    "fees": {
+      "symbol": "XVGUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CVCUSDT",
+    "fees": {
+      "symbol": "CVCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "IDUSDT",
+    "fees": {
+      "symbol": "IDUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "LEVERUSDT",
+    "fees": {
+      "symbol": "LEVERUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XAIUSDT",
+    "fees": {
+      "symbol": "XAIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "STORJUSDT",
+    "fees": {
+      "symbol": "STORJUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SCRTUSDT",
+    "fees": {
+      "symbol": "SCRTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SCUSDT",
+    "fees": {
+      "symbol": "SCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XEMUSDT",
+    "fees": {
+      "symbol": "XEMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "LDOUSDT",
+    "fees": {
+      "symbol": "LDOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "LOOMUSDT",
+    "fees": {
+      "symbol": "LOOMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fees": {
+      "symbol": "ETHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XVSUSDT",
+    "fees": {
+      "symbol": "XVSUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AGIXUSDT",
+    "fees": {
+      "symbol": "AGIXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XNOUSDT",
+    "fees": {
+      "symbol": "XNOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "OCEANUSDT",
+    "fees": {
+      "symbol": "OCEANUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "PIXELUSDT",
+    "fees": {
+      "symbol": "PIXELUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AKROUSDT",
+    "fees": {
+      "symbol": "AKROUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BONDUSDT",
+    "fees": {
+      "symbol": "BONDUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AIUSDT",
+    "fees": {
+      "symbol": "AIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1INCHUSDT",
+    "fees": {
+      "symbol": "1INCHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "HFTUSDT",
+    "fees": {
+      "symbol": "HFTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "DARUSDT",
+    "fees": {
+      "symbol": "DARUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "USTCUSDT",
+    "fees": {
+      "symbol": "USTCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "WIFUSDT",
+    "fees": {
+      "symbol": "WIFUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ALPHAUSDT",
+    "fees": {
+      "symbol": "ALPHAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "PYTHUSDT",
+    "fees": {
+      "symbol": "PYTHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "LRCUSDT",
+    "fees": {
+      "symbol": "LRCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "STXUSDT",
+    "fees": {
+      "symbol": "STXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "KNCUSDT",
+    "fees": {
+      "symbol": "KNCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GMXUSDT",
+    "fees": {
+      "symbol": "GMXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "IOTAUSDT",
+    "fees": {
+      "symbol": "IOTAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XCNUSDT",
+    "fees": {
+      "symbol": "XCNUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CRVUSDT",
+    "fees": {
+      "symbol": "CRVUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FRONTUSDT",
+    "fees": {
+      "symbol": "FRONTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000PEPEUSDT",
+    "fees": {
+      "symbol": "1000PEPEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MAVUSDT",
+    "fees": {
+      "symbol": "MAVUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SOLPERP",
+    "fees": {
+      "symbol": "SOLPERP",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CVXUSDT",
+    "fees": {
+      "symbol": "CVXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BNBUSDT",
+    "fees": {
+      "symbol": "BNBUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SLPUSDT",
+    "fees": {
+      "symbol": "SLPUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "LPTUSDT",
+    "fees": {
+      "symbol": "LPTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AMBUSDT",
+    "fees": {
+      "symbol": "AMBUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CVCUSDT",
+    "fees": {
+      "symbol": "CVCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETH-15MAR24",
+    "fees": {
+      "symbol": "ETH-15MAR24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SUNUSDT",
+    "fees": {
+      "symbol": "SUNUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SANDUSDT",
+    "fees": {
+      "symbol": "SANDUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "QNTUSDT",
+    "fees": {
+      "symbol": "QNTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "fees": {
+      "symbol": "DOGEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "LUNA2USDT",
+    "fees": {
+      "symbol": "LUNA2USDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "HFTUSDT",
+    "fees": {
+      "symbol": "HFTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "fees": {
+      "symbol": "DOGEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "fees": {
+      "symbol": "DOGEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GALAUSDT",
+    "fees": {
+      "symbol": "GALAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000BTTUSDT",
+    "fees": {
+      "symbol": "1000BTTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MANAUSD",
+    "fees": {
+      "symbol": "MANAUSD",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "DGBUSDT",
+    "fees": {
+      "symbol": "DGBUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SEIUSDT",
+    "fees": {
+      "symbol": "SEIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SUIUSDT",
+    "fees": {
+      "symbol": "SUIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AUCTIONUSDT",
+    "fees": {
+      "symbol": "AUCTIONUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GPTUSDT",
+    "fees": {
+      "symbol": "GPTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MANTAUSDT",
+    "fees": {
+      "symbol": "MANTAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BATUSDT",
+    "fees": {
+      "symbol": "BATUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SPELLUSDT",
+    "fees": {
+      "symbol": "SPELLUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "PIXELUSDT",
+    "fees": {
+      "symbol": "PIXELUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GMTUSDT",
+    "fees": {
+      "symbol": "GMTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RENUSDT",
+    "fees": {
+      "symbol": "RENUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AGLDUSDT",
+    "fees": {
+      "symbol": "AGLDUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GTCUSDT",
+    "fees": {
+      "symbol": "GTCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "OCEANUSDT",
+    "fees": {
+      "symbol": "OCEANUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ZENUSDT",
+    "fees": {
+      "symbol": "ZENUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "IOTXUSDT",
+    "fees": {
+      "symbol": "IOTXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "NEARUSDT",
+    "fees": {
+      "symbol": "NEARUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TOMIUSDT",
+    "fees": {
+      "symbol": "TOMIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "HIFIUSDT",
+    "fees": {
+      "symbol": "HIFIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BANDUSDT",
+    "fees": {
+      "symbol": "BANDUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "COTIUSDT",
+    "fees": {
+      "symbol": "COTIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "POLYXUSDT",
+    "fees": {
+      "symbol": "POLYXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CHZUSDT",
+    "fees": {
+      "symbol": "CHZUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "VTHOUSDT",
+    "fees": {
+      "symbol": "VTHOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TRUUSDT",
+    "fees": {
+      "symbol": "TRUUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "HOOKUSDT",
+    "fees": {
+      "symbol": "HOOKUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ZKFUSDT",
+    "fees": {
+      "symbol": "ZKFUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000LUNCUSDT",
+    "fees": {
+      "symbol": "1000LUNCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETH-22MAR24",
+    "fees": {
+      "symbol": "ETH-22MAR24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "KNCUSDT",
+    "fees": {
+      "symbol": "KNCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETCUSDT",
+    "fees": {
+      "symbol": "ETCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "fees": {
+      "symbol": "DOGEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "10000LADYSUSDT",
+    "fees": {
+      "symbol": "10000LADYSUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ONGUSDT",
+    "fees": {
+      "symbol": "ONGUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CHZUSDT",
+    "fees": {
+      "symbol": "CHZUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETHUSD",
+    "fees": {
+      "symbol": "ETHUSD",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FORTHUSDT",
+    "fees": {
+      "symbol": "FORTHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "DARUSDT",
+    "fees": {
+      "symbol": "DARUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BTCUSDM24",
+    "fees": {
+      "symbol": "BTCUSDM24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MDTUSDT",
+    "fees": {
+      "symbol": "MDTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BNXUSDT",
+    "fees": {
+      "symbol": "BNXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CHRUSDT",
+    "fees": {
+      "symbol": "CHRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SILLYUSDT",
+    "fees": {
+      "symbol": "SILLYUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FLMUSDT",
+    "fees": {
+      "symbol": "FLMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AUCTIONUSDT",
+    "fees": {
+      "symbol": "AUCTIONUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "LOOMUSDT",
+    "fees": {
+      "symbol": "LOOMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "NEOUSDT",
+    "fees": {
+      "symbol": "NEOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CELRUSDT",
+    "fees": {
+      "symbol": "CELRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GRTUSDT",
+    "fees": {
+      "symbol": "GRTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "KLAYUSDT",
+    "fees": {
+      "symbol": "KLAYUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MINAUSDT",
+    "fees": {
+      "symbol": "MINAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TAOUSDT",
+    "fees": {
+      "symbol": "TAOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GMTUSDT",
+    "fees": {
+      "symbol": "GMTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SSVUSDT",
+    "fees": {
+      "symbol": "SSVUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RADUSDT",
+    "fees": {
+      "symbol": "RADUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "WAXPUSDT",
+    "fees": {
+      "symbol": "WAXPUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "STXUSDT",
+    "fees": {
+      "symbol": "STXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000FLOKIUSDT",
+    "fees": {
+      "symbol": "1000FLOKIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BEAMUSDT",
+    "fees": {
+      "symbol": "BEAMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "LOOKSUSDT",
+    "fees": {
+      "symbol": "LOOKSUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CAKEUSDT",
+    "fees": {
+      "symbol": "CAKEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ANTUSDT",
+    "fees": {
+      "symbol": "ANTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "IOTAUSDT",
+    "fees": {
+      "symbol": "IOTAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RSRUSDT",
+    "fees": {
+      "symbol": "RSRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "STMXUSDT",
+    "fees": {
+      "symbol": "STMXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MANAUSD",
+    "fees": {
+      "symbol": "MANAUSD",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETHPERP",
+    "fees": {
+      "symbol": "ETHPERP",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000BTTUSDT",
+    "fees": {
+      "symbol": "1000BTTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "10000WENUSDT",
+    "fees": {
+      "symbol": "10000WENUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TIAUSDT",
+    "fees": {
+      "symbol": "TIAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AUCTIONUSDT",
+    "fees": {
+      "symbol": "AUCTIONUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "LSKUSDT",
+    "fees": {
+      "symbol": "LSKUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "COTIUSDT",
+    "fees": {
+      "symbol": "COTIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MDTUSDT",
+    "fees": {
+      "symbol": "MDTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AUDIOUSDT",
+    "fees": {
+      "symbol": "AUDIOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "LUNA2USDT",
+    "fees": {
+      "symbol": "LUNA2USDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "NEOUSDT",
+    "fees": {
+      "symbol": "NEOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000RATSUSDT",
+    "fees": {
+      "symbol": "1000RATSUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "DGBUSDT",
+    "fees": {
+      "symbol": "DGBUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TOMIUSDT",
+    "fees": {
+      "symbol": "TOMIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ONTUSDT",
+    "fees": {
+      "symbol": "ONTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RENUSDT",
+    "fees": {
+      "symbol": "RENUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BTCUSD",
+    "fees": {
+      "symbol": "BTCUSD",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "POWRUSDT",
+    "fees": {
+      "symbol": "POWRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GFTUSDT",
+    "fees": {
+      "symbol": "GFTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BNXUSDT",
+    "fees": {
+      "symbol": "BNXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BTC-22MAR24",
+    "fees": {
+      "symbol": "BTC-22MAR24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TOKENUSDT",
+    "fees": {
+      "symbol": "TOKENUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "STXUSDT",
+    "fees": {
+      "symbol": "STXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "LUNA2USDT",
+    "fees": {
+      "symbol": "LUNA2USDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FLRUSDT",
+    "fees": {
+      "symbol": "FLRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "LUNA2USDT",
+    "fees": {
+      "symbol": "LUNA2USDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MDTUSDT",
+    "fees": {
+      "symbol": "MDTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "OXTUSDT",
+    "fees": {
+      "symbol": "OXTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SKLUSDT",
+    "fees": {
+      "symbol": "SKLUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ZENUSDT",
+    "fees": {
+      "symbol": "ZENUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MBLUSDT",
+    "fees": {
+      "symbol": "MBLUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "POWRUSDT",
+    "fees": {
+      "symbol": "POWRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BNXUSDT",
+    "fees": {
+      "symbol": "BNXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CETUSUSDT",
+    "fees": {
+      "symbol": "CETUSUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1INCHUSDT",
+    "fees": {
+      "symbol": "1INCHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "POLYXUSDT",
+    "fees": {
+      "symbol": "POLYXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "10000NFTUSDT",
+    "fees": {
+      "symbol": "10000NFTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "JASMYUSDT",
+    "fees": {
+      "symbol": "JASMYUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XMRUSDT",
+    "fees": {
+      "symbol": "XMRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "STEEMUSDT",
+    "fees": {
+      "symbol": "STEEMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000FLOKIUSDT",
+    "fees": {
+      "symbol": "1000FLOKIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GALAUSDT",
+    "fees": {
+      "symbol": "GALAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CVXUSDT",
+    "fees": {
+      "symbol": "CVXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GMXUSDT",
+    "fees": {
+      "symbol": "GMXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BTCUSDM24",
+    "fees": {
+      "symbol": "BTCUSDM24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "DODOUSDT",
+    "fees": {
+      "symbol": "DODOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "UNFIUSDT",
+    "fees": {
+      "symbol": "UNFIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RLCUSDT",
+    "fees": {
+      "symbol": "RLCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RIFUSDT",
+    "fees": {
+      "symbol": "RIFUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SEIUSDT",
+    "fees": {
+      "symbol": "SEIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SUNUSDT",
+    "fees": {
+      "symbol": "SUNUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "QNTUSDT",
+    "fees": {
+      "symbol": "QNTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SNXUSDT",
+    "fees": {
+      "symbol": "SNXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "AMBUSDT",
+    "fees": {
+      "symbol": "AMBUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BTC-08MAR24",
+    "fees": {
+      "symbol": "BTC-08MAR24",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ALICEUSDT",
+    "fees": {
+      "symbol": "ALICEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000PEPEUSDT",
+    "fees": {
+      "symbol": "1000PEPEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FLMUSDT",
+    "fees": {
+      "symbol": "FLMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BSWUSDT",
+    "fees": {
+      "symbol": "BSWUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000BONKUSDT",
+    "fees": {
+      "symbol": "1000BONKUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "PROMUSDT",
+    "fees": {
+      "symbol": "PROMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BELUSDT",
+    "fees": {
+      "symbol": "BELUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GMTUSDT",
+    "fees": {
+      "symbol": "GMTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "REQUSDT",
+    "fees": {
+      "symbol": "REQUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SLPUSDT",
+    "fees": {
+      "symbol": "SLPUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000PEPEUSDT",
+    "fees": {
+      "symbol": "1000PEPEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "KASUSDT",
+    "fees": {
+      "symbol": "KASUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "OXTUSDT",
+    "fees": {
+      "symbol": "OXTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RENUSDT",
+    "fees": {
+      "symbol": "RENUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "KLAYUSDT",
+    "fees": {
+      "symbol": "KLAYUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "NTRNUSDT",
+    "fees": {
+      "symbol": "NTRNUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "CRVUSDT",
+    "fees": {
+      "symbol": "CRVUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "WIFUSDT",
+    "fees": {
+      "symbol": "WIFUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XVGUSDT",
+    "fees": {
+      "symbol": "XVGUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "NEARUSDT",
+    "fees": {
+      "symbol": "NEARUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "HOOKUSDT",
+    "fees": {
+      "symbol": "HOOKUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BLZUSDT",
+    "fees": {
+      "symbol": "BLZUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MAVIAUSDT",
+    "fees": {
+      "symbol": "MAVIAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "HIGHUSDT",
+    "fees": {
+      "symbol": "HIGHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GLMRUSDT",
+    "fees": {
+      "symbol": "GLMRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "COMBOUSDT",
+    "fees": {
+      "symbol": "COMBOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ONTUSDT",
+    "fees": {
+      "symbol": "ONTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "FLOWUSDT",
+    "fees": {
+      "symbol": "FLOWUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ETCPERP",
+    "fees": {
+      "symbol": "ETCPERP",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ARKMUSDT",
+    "fees": {
+      "symbol": "ARKMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000TURBOUSDT",
+    "fees": {
+      "symbol": "1000TURBOUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "C98USDT",
+    "fees": {
+      "symbol": "C98USDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BAKEUSDT",
+    "fees": {
+      "symbol": "BAKEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GMTUSDT",
+    "fees": {
+      "symbol": "GMTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MOVRUSDT",
+    "fees": {
+      "symbol": "MOVRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SUNUSDT",
+    "fees": {
+      "symbol": "SUNUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ATOMUSDT",
+    "fees": {
+      "symbol": "ATOMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "RSRUSDT",
+    "fees": {
+      "symbol": "RSRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XVGUSDT",
+    "fees": {
+      "symbol": "XVGUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "GALAUSDT",
+    "fees": {
+      "symbol": "GALAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BANDUSDT",
+    "fees": {
+      "symbol": "BANDUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BNXUSDT",
+    "fees": {
+      "symbol": "BNXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "STXUSDT",
+    "fees": {
+      "symbol": "STXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "OPUSDT",
+    "fees": {
+      "symbol": "OPUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ACEUSDT",
+    "fees": {
+      "symbol": "ACEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "BCHUSDT",
+    "fees": {
+      "symbol": "BCHUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ALTUSDT",
+    "fees": {
+      "symbol": "ALTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MBLUSDT",
+    "fees": {
+      "symbol": "MBLUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SOLPERP",
+    "fees": {
+      "symbol": "SOLPERP",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "TRXUSDT",
+    "fees": {
+      "symbol": "TRXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ILVUSDT",
+    "fees": {
+      "symbol": "ILVUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "KNCUSDT",
+    "fees": {
+      "symbol": "KNCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "DYMUSDT",
+    "fees": {
+      "symbol": "DYMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "SLPUSDT",
+    "fees": {
+      "symbol": "SLPUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ROSEUSDT",
+    "fees": {
+      "symbol": "ROSEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ZRXUSDT",
+    "fees": {
+      "symbol": "ZRXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "HOOKUSDT",
+    "fees": {
+      "symbol": "HOOKUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "XVSUSDT",
+    "fees": {
+      "symbol": "XVSUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000FLOKIUSDT",
+    "fees": {
+      "symbol": "1000FLOKIUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ANKRUSDT",
+    "fees": {
+      "symbol": "ANKRUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "LTCUSDT",
+    "fees": {
+      "symbol": "LTCUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "POLYXUSDT",
+    "fees": {
+      "symbol": "POLYXUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1000RATSUSDT",
+    "fees": {
+      "symbol": "1000RATSUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "PIXELUSDT",
+    "fees": {
+      "symbol": "PIXELUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "ATOMUSDT",
+    "fees": {
+      "symbol": "ATOMUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "APTUSDT",
+    "fees": {
+      "symbol": "APTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "JOEUSDT",
+    "fees": {
+      "symbol": "JOEUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "MANAUSDT",
+    "fees": {
+      "symbol": "MANAUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "HFTUSDT",
+    "fees": {
+      "symbol": "HFTUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  },
+  {
+    "symbol": "1CATUSDT",
+    "fees": {
+      "symbol": "1CATUSDT",
+      "takerFeeRate": "0.00055",
+      "makerFeeRate": "0.0002"
+    }
+  }
+]

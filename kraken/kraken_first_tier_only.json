@@ -1,0 +1,5450 @@
+[
+  {
+    "symbol": "1INCH/EUR",
+    "fees": {
+      "symbol": "1INCH/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "1INCH/USD",
+    "fees": {
+      "symbol": "1INCH/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AAVE/ETH",
+    "fees": {
+      "symbol": "AAVE/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AAVE/EUR",
+    "fees": {
+      "symbol": "AAVE/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AAVE/GBP",
+    "fees": {
+      "symbol": "AAVE/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AAVE/USD",
+    "fees": {
+      "symbol": "AAVE/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AAVE/XBT",
+    "fees": {
+      "symbol": "AAVE/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ACA/EUR",
+    "fees": {
+      "symbol": "ACA/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ACA/USD",
+    "fees": {
+      "symbol": "ACA/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ACH/EUR",
+    "fees": {
+      "symbol": "ACH/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ACH/USD",
+    "fees": {
+      "symbol": "ACH/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ADA/AUD",
+    "fees": {
+      "symbol": "ADA/AUD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ADA/ETH",
+    "fees": {
+      "symbol": "ADA/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ADA/EUR",
+    "fees": {
+      "symbol": "ADA/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ADA/GBP",
+    "fees": {
+      "symbol": "ADA/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ADA/USD",
+    "fees": {
+      "symbol": "ADA/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ADA/USDT",
+    "fees": {
+      "symbol": "ADA/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ADA/XBT",
+    "fees": {
+      "symbol": "ADA/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ADX/EUR",
+    "fees": {
+      "symbol": "ADX/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ADX/USD",
+    "fees": {
+      "symbol": "ADX/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AGLD/EUR",
+    "fees": {
+      "symbol": "AGLD/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AGLD/USD",
+    "fees": {
+      "symbol": "AGLD/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AIR/EUR",
+    "fees": {
+      "symbol": "AIR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AIR/USD",
+    "fees": {
+      "symbol": "AIR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AKT/EUR",
+    "fees": {
+      "symbol": "AKT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AKT/USD",
+    "fees": {
+      "symbol": "AKT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ALCX/EUR",
+    "fees": {
+      "symbol": "ALCX/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ALCX/USD",
+    "fees": {
+      "symbol": "ALCX/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ALGO/ETH",
+    "fees": {
+      "symbol": "ALGO/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ALGO/EUR",
+    "fees": {
+      "symbol": "ALGO/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ALGO/GBP",
+    "fees": {
+      "symbol": "ALGO/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ALGO/USD",
+    "fees": {
+      "symbol": "ALGO/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ALGO/USDT",
+    "fees": {
+      "symbol": "ALGO/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ALGO/XBT",
+    "fees": {
+      "symbol": "ALGO/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ALICE/EUR",
+    "fees": {
+      "symbol": "ALICE/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ALICE/USD",
+    "fees": {
+      "symbol": "ALICE/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ALPHA/EUR",
+    "fees": {
+      "symbol": "ALPHA/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ALPHA/USD",
+    "fees": {
+      "symbol": "ALPHA/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ANKR/EUR",
+    "fees": {
+      "symbol": "ANKR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ANKR/USD",
+    "fees": {
+      "symbol": "ANKR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ANKR/XBT",
+    "fees": {
+      "symbol": "ANKR/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ANT/ETH",
+    "fees": {
+      "symbol": "ANT/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ANT/EUR",
+    "fees": {
+      "symbol": "ANT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ANT/USD",
+    "fees": {
+      "symbol": "ANT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ANT/XBT",
+    "fees": {
+      "symbol": "ANT/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "APE/EUR",
+    "fees": {
+      "symbol": "APE/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "APE/USD",
+    "fees": {
+      "symbol": "APE/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "APE/USDT",
+    "fees": {
+      "symbol": "APE/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "API3/EUR",
+    "fees": {
+      "symbol": "API3/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "API3/USD",
+    "fees": {
+      "symbol": "API3/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "APT/EUR",
+    "fees": {
+      "symbol": "APT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "APT/USD",
+    "fees": {
+      "symbol": "APT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ARB/EUR",
+    "fees": {
+      "symbol": "ARB/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ARB/USD",
+    "fees": {
+      "symbol": "ARB/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ARPA/EUR",
+    "fees": {
+      "symbol": "ARPA/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ARPA/USD",
+    "fees": {
+      "symbol": "ARPA/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ASTR/EUR",
+    "fees": {
+      "symbol": "ASTR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ASTR/USD",
+    "fees": {
+      "symbol": "ASTR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ATLAS/EUR",
+    "fees": {
+      "symbol": "ATLAS/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ATLAS/USD",
+    "fees": {
+      "symbol": "ATLAS/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ATOM/ETH",
+    "fees": {
+      "symbol": "ATOM/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ATOM/EUR",
+    "fees": {
+      "symbol": "ATOM/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ATOM/GBP",
+    "fees": {
+      "symbol": "ATOM/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ATOM/USD",
+    "fees": {
+      "symbol": "ATOM/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ATOM/USDT",
+    "fees": {
+      "symbol": "ATOM/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ATOM/XBT",
+    "fees": {
+      "symbol": "ATOM/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AUDIO/EUR",
+    "fees": {
+      "symbol": "AUDIO/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AUDIO/USD",
+    "fees": {
+      "symbol": "AUDIO/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AUD/JPY",
+    "fees": {
+      "symbol": "AUD/JPY",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "AUD/USD",
+    "fees": {
+      "symbol": "AUD/USD",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "AVAX/EUR",
+    "fees": {
+      "symbol": "AVAX/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AVAX/USD",
+    "fees": {
+      "symbol": "AVAX/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AVAX/USDT",
+    "fees": {
+      "symbol": "AVAX/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AXS/EUR",
+    "fees": {
+      "symbol": "AXS/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "AXS/USD",
+    "fees": {
+      "symbol": "AXS/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BADGER/EUR",
+    "fees": {
+      "symbol": "BADGER/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BADGER/USD",
+    "fees": {
+      "symbol": "BADGER/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BAL/EUR",
+    "fees": {
+      "symbol": "BAL/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BAL/USD",
+    "fees": {
+      "symbol": "BAL/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BAL/XBT",
+    "fees": {
+      "symbol": "BAL/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BAND/EUR",
+    "fees": {
+      "symbol": "BAND/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BAND/USD",
+    "fees": {
+      "symbol": "BAND/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BAT/ETH",
+    "fees": {
+      "symbol": "BAT/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BAT/EUR",
+    "fees": {
+      "symbol": "BAT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BAT/JPY",
+    "fees": {
+      "symbol": "BAT/JPY",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BAT/USD",
+    "fees": {
+      "symbol": "BAT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BAT/XBT",
+    "fees": {
+      "symbol": "BAT/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BCH/AUD",
+    "fees": {
+      "symbol": "BCH/AUD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BCH/ETH",
+    "fees": {
+      "symbol": "BCH/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BCH/EUR",
+    "fees": {
+      "symbol": "BCH/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BCH/GBP",
+    "fees": {
+      "symbol": "BCH/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BCH/JPY",
+    "fees": {
+      "symbol": "BCH/JPY",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BCH/USD",
+    "fees": {
+      "symbol": "BCH/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BCH/USDT",
+    "fees": {
+      "symbol": "BCH/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BCH/XBT",
+    "fees": {
+      "symbol": "BCH/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BICO/EUR",
+    "fees": {
+      "symbol": "BICO/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BICO/USD",
+    "fees": {
+      "symbol": "BICO/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BIT/EUR",
+    "fees": {
+      "symbol": "BIT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BIT/USD",
+    "fees": {
+      "symbol": "BIT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BLUR/EUR",
+    "fees": {
+      "symbol": "BLUR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BLUR/USD",
+    "fees": {
+      "symbol": "BLUR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BLZ/EUR",
+    "fees": {
+      "symbol": "BLZ/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BLZ/USD",
+    "fees": {
+      "symbol": "BLZ/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BNC/EUR",
+    "fees": {
+      "symbol": "BNC/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BNC/USD",
+    "fees": {
+      "symbol": "BNC/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BNT/EUR",
+    "fees": {
+      "symbol": "BNT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BNT/USD",
+    "fees": {
+      "symbol": "BNT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BNT/XBT",
+    "fees": {
+      "symbol": "BNT/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BOBA/EUR",
+    "fees": {
+      "symbol": "BOBA/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BOBA/USD",
+    "fees": {
+      "symbol": "BOBA/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BOND/EUR",
+    "fees": {
+      "symbol": "BOND/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BOND/USD",
+    "fees": {
+      "symbol": "BOND/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BONK/EUR",
+    "fees": {
+      "symbol": "BONK/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BONK/USD",
+    "fees": {
+      "symbol": "BONK/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BRICK/EUR",
+    "fees": {
+      "symbol": "BRICK/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BRICK/USD",
+    "fees": {
+      "symbol": "BRICK/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BSX/EUR",
+    "fees": {
+      "symbol": "BSX/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BSX/USD",
+    "fees": {
+      "symbol": "BSX/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BTT/EUR",
+    "fees": {
+      "symbol": "BTT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "BTT/USD",
+    "fees": {
+      "symbol": "BTT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "C98/EUR",
+    "fees": {
+      "symbol": "C98/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "C98/USD",
+    "fees": {
+      "symbol": "C98/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CELR/EUR",
+    "fees": {
+      "symbol": "CELR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CELR/USD",
+    "fees": {
+      "symbol": "CELR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CFG/EUR",
+    "fees": {
+      "symbol": "CFG/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CFG/USD",
+    "fees": {
+      "symbol": "CFG/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CHR/EUR",
+    "fees": {
+      "symbol": "CHR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CHR/USD",
+    "fees": {
+      "symbol": "CHR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CHZ/EUR",
+    "fees": {
+      "symbol": "CHZ/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CHZ/USD",
+    "fees": {
+      "symbol": "CHZ/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "COMP/EUR",
+    "fees": {
+      "symbol": "COMP/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "COMP/USD",
+    "fees": {
+      "symbol": "COMP/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "COMP/XBT",
+    "fees": {
+      "symbol": "COMP/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "COTI/EUR",
+    "fees": {
+      "symbol": "COTI/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "COTI/USD",
+    "fees": {
+      "symbol": "COTI/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CQT/EUR",
+    "fees": {
+      "symbol": "CQT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CQT/USD",
+    "fees": {
+      "symbol": "CQT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CRV/ETH",
+    "fees": {
+      "symbol": "CRV/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CRV/EUR",
+    "fees": {
+      "symbol": "CRV/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CRV/USD",
+    "fees": {
+      "symbol": "CRV/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CRV/XBT",
+    "fees": {
+      "symbol": "CRV/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CSM/EUR",
+    "fees": {
+      "symbol": "CSM/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CSM/USD",
+    "fees": {
+      "symbol": "CSM/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CTSI/EUR",
+    "fees": {
+      "symbol": "CTSI/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CTSI/USD",
+    "fees": {
+      "symbol": "CTSI/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CVC/EUR",
+    "fees": {
+      "symbol": "CVC/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CVC/USD",
+    "fees": {
+      "symbol": "CVC/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CVX/EUR",
+    "fees": {
+      "symbol": "CVX/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "CVX/USD",
+    "fees": {
+      "symbol": "CVX/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "DAI/EUR",
+    "fees": {
+      "symbol": "DAI/EUR",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "DAI/USD",
+    "fees": {
+      "symbol": "DAI/USD",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "DAI/USDT",
+    "fees": {
+      "symbol": "DAI/USDT",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "DASH/EUR",
+    "fees": {
+      "symbol": "DASH/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "DASH/USD",
+    "fees": {
+      "symbol": "DASH/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "DASH/XBT",
+    "fees": {
+      "symbol": "DASH/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "DENT/EUR",
+    "fees": {
+      "symbol": "DENT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "DENT/USD",
+    "fees": {
+      "symbol": "DENT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "DOT/ETH",
+    "fees": {
+      "symbol": "DOT/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "DOT/EUR",
+    "fees": {
+      "symbol": "DOT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "DOT/GBP",
+    "fees": {
+      "symbol": "DOT/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "DOT/JPY",
+    "fees": {
+      "symbol": "DOT/JPY",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "DOT/USD",
+    "fees": {
+      "symbol": "DOT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "DOT/USDT",
+    "fees": {
+      "symbol": "DOT/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "DOT/XBT",
+    "fees": {
+      "symbol": "DOT/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "DYDX/EUR",
+    "fees": {
+      "symbol": "DYDX/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "DYDX/USD",
+    "fees": {
+      "symbol": "DYDX/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "DYM/EUR",
+    "fees": {
+      "symbol": "DYM/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "DYM/USD",
+    "fees": {
+      "symbol": "DYM/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "EGLD/EUR",
+    "fees": {
+      "symbol": "EGLD/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "EGLD/USD",
+    "fees": {
+      "symbol": "EGLD/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ENJ/EUR",
+    "fees": {
+      "symbol": "ENJ/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ENJ/GBP",
+    "fees": {
+      "symbol": "ENJ/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ENJ/JPY",
+    "fees": {
+      "symbol": "ENJ/JPY",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ENJ/USD",
+    "fees": {
+      "symbol": "ENJ/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ENJ/XBT",
+    "fees": {
+      "symbol": "ENJ/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ENS/EUR",
+    "fees": {
+      "symbol": "ENS/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ENS/USD",
+    "fees": {
+      "symbol": "ENS/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "EOS/ETH",
+    "fees": {
+      "symbol": "EOS/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "EOS/EUR",
+    "fees": {
+      "symbol": "EOS/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "EOS/USD",
+    "fees": {
+      "symbol": "EOS/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "EOS/USDT",
+    "fees": {
+      "symbol": "EOS/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "EOS/XBT",
+    "fees": {
+      "symbol": "EOS/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETH2.S/ETH",
+    "fees": {
+      "symbol": "ETH2.S/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETH/AED",
+    "fees": {
+      "symbol": "ETH/AED",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETH/AUD",
+    "fees": {
+      "symbol": "ETH/AUD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETH/CHF",
+    "fees": {
+      "symbol": "ETH/CHF",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETH/DAI",
+    "fees": {
+      "symbol": "ETH/DAI",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETH/PYUSD",
+    "fees": {
+      "symbol": "ETH/PYUSD",
+      "takerFeeRate": 0.0001,
+      "makerFeeRate": 0
+    }
+  },
+  {
+    "symbol": "ETH/USDC",
+    "fees": {
+      "symbol": "ETH/USDC",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETH/USDT",
+    "fees": {
+      "symbol": "ETH/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETHW/ETH",
+    "fees": {
+      "symbol": "ETHW/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETHW/EUR",
+    "fees": {
+      "symbol": "ETHW/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETHW/USD",
+    "fees": {
+      "symbol": "ETHW/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "EUL/EUR",
+    "fees": {
+      "symbol": "EUL/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "EUL/USD",
+    "fees": {
+      "symbol": "EUL/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "EUR/AUD",
+    "fees": {
+      "symbol": "EUR/AUD",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "EUR/CAD",
+    "fees": {
+      "symbol": "EUR/CAD",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "EUR/CHF",
+    "fees": {
+      "symbol": "EUR/CHF",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "EUR/GBP",
+    "fees": {
+      "symbol": "EUR/GBP",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "EUR/JPY",
+    "fees": {
+      "symbol": "EUR/JPY",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "EURT/EUR",
+    "fees": {
+      "symbol": "EURT/EUR",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "EURT/USD",
+    "fees": {
+      "symbol": "EURT/USD",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "EURT/USDT",
+    "fees": {
+      "symbol": "EURT/USDT",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "EWT/EUR",
+    "fees": {
+      "symbol": "EWT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "EWT/GBP",
+    "fees": {
+      "symbol": "EWT/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "EWT/USD",
+    "fees": {
+      "symbol": "EWT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "EWT/XBT",
+    "fees": {
+      "symbol": "EWT/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FARM/EUR",
+    "fees": {
+      "symbol": "FARM/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FARM/USD",
+    "fees": {
+      "symbol": "FARM/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FET/EUR",
+    "fees": {
+      "symbol": "FET/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FET/USD",
+    "fees": {
+      "symbol": "FET/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FIDA/EUR",
+    "fees": {
+      "symbol": "FIDA/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FIDA/USD",
+    "fees": {
+      "symbol": "FIDA/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FIL/ETH",
+    "fees": {
+      "symbol": "FIL/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FIL/EUR",
+    "fees": {
+      "symbol": "FIL/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FIL/GBP",
+    "fees": {
+      "symbol": "FIL/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FIL/USD",
+    "fees": {
+      "symbol": "FIL/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FIL/XBT",
+    "fees": {
+      "symbol": "FIL/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FIS/EUR",
+    "fees": {
+      "symbol": "FIS/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FIS/USD",
+    "fees": {
+      "symbol": "FIS/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FLOW/ETH",
+    "fees": {
+      "symbol": "FLOW/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FLOW/EUR",
+    "fees": {
+      "symbol": "FLOW/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FLOW/GBP",
+    "fees": {
+      "symbol": "FLOW/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FLOW/USD",
+    "fees": {
+      "symbol": "FLOW/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FLOW/XBT",
+    "fees": {
+      "symbol": "FLOW/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FLR/EUR",
+    "fees": {
+      "symbol": "FLR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FLR/USD",
+    "fees": {
+      "symbol": "FLR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FORTH/EUR",
+    "fees": {
+      "symbol": "FORTH/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FORTH/USD",
+    "fees": {
+      "symbol": "FORTH/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FTM/EUR",
+    "fees": {
+      "symbol": "FTM/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FTM/USD",
+    "fees": {
+      "symbol": "FTM/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FXS/EUR",
+    "fees": {
+      "symbol": "FXS/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "FXS/USD",
+    "fees": {
+      "symbol": "FXS/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GALA/EUR",
+    "fees": {
+      "symbol": "GALA/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GALA/USD",
+    "fees": {
+      "symbol": "GALA/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GAL/EUR",
+    "fees": {
+      "symbol": "GAL/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GAL/USD",
+    "fees": {
+      "symbol": "GAL/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GARI/EUR",
+    "fees": {
+      "symbol": "GARI/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GARI/USD",
+    "fees": {
+      "symbol": "GARI/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GHST/EUR",
+    "fees": {
+      "symbol": "GHST/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GHST/USD",
+    "fees": {
+      "symbol": "GHST/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GHST/XBT",
+    "fees": {
+      "symbol": "GHST/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GLMR/EUR",
+    "fees": {
+      "symbol": "GLMR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GLMR/USD",
+    "fees": {
+      "symbol": "GLMR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GMT/EUR",
+    "fees": {
+      "symbol": "GMT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GMT/USD",
+    "fees": {
+      "symbol": "GMT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GMX/EUR",
+    "fees": {
+      "symbol": "GMX/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GMX/USD",
+    "fees": {
+      "symbol": "GMX/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GNO/EUR",
+    "fees": {
+      "symbol": "GNO/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GNO/USD",
+    "fees": {
+      "symbol": "GNO/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GNO/XBT",
+    "fees": {
+      "symbol": "GNO/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GRT/EUR",
+    "fees": {
+      "symbol": "GRT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GRT/GBP",
+    "fees": {
+      "symbol": "GRT/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GRT/USD",
+    "fees": {
+      "symbol": "GRT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GRT/XBT",
+    "fees": {
+      "symbol": "GRT/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GST/EUR",
+    "fees": {
+      "symbol": "GST/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GST/USD",
+    "fees": {
+      "symbol": "GST/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GTC/EUR",
+    "fees": {
+      "symbol": "GTC/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "GTC/USD",
+    "fees": {
+      "symbol": "GTC/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "HDX/EUR",
+    "fees": {
+      "symbol": "HDX/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "HDX/USD",
+    "fees": {
+      "symbol": "HDX/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "HFT/EUR",
+    "fees": {
+      "symbol": "HFT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "HFT/USD",
+    "fees": {
+      "symbol": "HFT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ICP/EUR",
+    "fees": {
+      "symbol": "ICP/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ICP/USD",
+    "fees": {
+      "symbol": "ICP/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ICX/ETH",
+    "fees": {
+      "symbol": "ICX/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ICX/EUR",
+    "fees": {
+      "symbol": "ICX/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ICX/USD",
+    "fees": {
+      "symbol": "ICX/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ICX/XBT",
+    "fees": {
+      "symbol": "ICX/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "IDEX/EUR",
+    "fees": {
+      "symbol": "IDEX/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "IDEX/USD",
+    "fees": {
+      "symbol": "IDEX/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "IMX/EUR",
+    "fees": {
+      "symbol": "IMX/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "IMX/USD",
+    "fees": {
+      "symbol": "IMX/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "INJ/EUR",
+    "fees": {
+      "symbol": "INJ/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "INJ/USD",
+    "fees": {
+      "symbol": "INJ/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "INTR/EUR",
+    "fees": {
+      "symbol": "INTR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "INTR/USD",
+    "fees": {
+      "symbol": "INTR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "JASMY/EUR",
+    "fees": {
+      "symbol": "JASMY/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "JASMY/USD",
+    "fees": {
+      "symbol": "JASMY/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "JTO/EUR",
+    "fees": {
+      "symbol": "JTO/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "JTO/USD",
+    "fees": {
+      "symbol": "JTO/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "JUNO/EUR",
+    "fees": {
+      "symbol": "JUNO/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "JUNO/USD",
+    "fees": {
+      "symbol": "JUNO/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "JUP/EUR",
+    "fees": {
+      "symbol": "JUP/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "JUP/USD",
+    "fees": {
+      "symbol": "JUP/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KAR/EUR",
+    "fees": {
+      "symbol": "KAR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KAR/USD",
+    "fees": {
+      "symbol": "KAR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KAVA/ETH",
+    "fees": {
+      "symbol": "KAVA/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KAVA/EUR",
+    "fees": {
+      "symbol": "KAVA/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KAVA/USD",
+    "fees": {
+      "symbol": "KAVA/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KAVA/XBT",
+    "fees": {
+      "symbol": "KAVA/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KEEP/EUR",
+    "fees": {
+      "symbol": "KEEP/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KEEP/USD",
+    "fees": {
+      "symbol": "KEEP/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KEEP/XBT",
+    "fees": {
+      "symbol": "KEEP/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KEY/EUR",
+    "fees": {
+      "symbol": "KEY/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KEY/USD",
+    "fees": {
+      "symbol": "KEY/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KILT/EUR",
+    "fees": {
+      "symbol": "KILT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KILT/USD",
+    "fees": {
+      "symbol": "KILT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KIN/EUR",
+    "fees": {
+      "symbol": "KIN/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KINT/EUR",
+    "fees": {
+      "symbol": "KINT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KINT/USD",
+    "fees": {
+      "symbol": "KINT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KIN/USD",
+    "fees": {
+      "symbol": "KIN/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KNC/ETH",
+    "fees": {
+      "symbol": "KNC/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KNC/EUR",
+    "fees": {
+      "symbol": "KNC/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KNC/USD",
+    "fees": {
+      "symbol": "KNC/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KNC/XBT",
+    "fees": {
+      "symbol": "KNC/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KP3R/EUR",
+    "fees": {
+      "symbol": "KP3R/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KP3R/USD",
+    "fees": {
+      "symbol": "KP3R/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KSM/DOT",
+    "fees": {
+      "symbol": "KSM/DOT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KSM/ETH",
+    "fees": {
+      "symbol": "KSM/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KSM/EUR",
+    "fees": {
+      "symbol": "KSM/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KSM/GBP",
+    "fees": {
+      "symbol": "KSM/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KSM/USD",
+    "fees": {
+      "symbol": "KSM/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "KSM/XBT",
+    "fees": {
+      "symbol": "KSM/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LCX/EUR",
+    "fees": {
+      "symbol": "LCX/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LCX/USD",
+    "fees": {
+      "symbol": "LCX/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LDO/EUR",
+    "fees": {
+      "symbol": "LDO/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LDO/USD",
+    "fees": {
+      "symbol": "LDO/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LINK/AUD",
+    "fees": {
+      "symbol": "LINK/AUD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LINK/ETH",
+    "fees": {
+      "symbol": "LINK/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LINK/EUR",
+    "fees": {
+      "symbol": "LINK/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LINK/GBP",
+    "fees": {
+      "symbol": "LINK/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LINK/JPY",
+    "fees": {
+      "symbol": "LINK/JPY",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LINK/USD",
+    "fees": {
+      "symbol": "LINK/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LINK/USDT",
+    "fees": {
+      "symbol": "LINK/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LINK/XBT",
+    "fees": {
+      "symbol": "LINK/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LMWR/EUR",
+    "fees": {
+      "symbol": "LMWR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LMWR/USD",
+    "fees": {
+      "symbol": "LMWR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LPT/EUR",
+    "fees": {
+      "symbol": "LPT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LPT/GBP",
+    "fees": {
+      "symbol": "LPT/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LPT/USD",
+    "fees": {
+      "symbol": "LPT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LPT/XBT",
+    "fees": {
+      "symbol": "LPT/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LRC/EUR",
+    "fees": {
+      "symbol": "LRC/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LRC/USD",
+    "fees": {
+      "symbol": "LRC/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LSK/ETH",
+    "fees": {
+      "symbol": "LSK/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LSK/EUR",
+    "fees": {
+      "symbol": "LSK/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LSK/USD",
+    "fees": {
+      "symbol": "LSK/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LSK/XBT",
+    "fees": {
+      "symbol": "LSK/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LTC/AUD",
+    "fees": {
+      "symbol": "LTC/AUD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LTC/ETH",
+    "fees": {
+      "symbol": "LTC/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LTC/GBP",
+    "fees": {
+      "symbol": "LTC/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LTC/USDT",
+    "fees": {
+      "symbol": "LTC/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LUNA2/EUR",
+    "fees": {
+      "symbol": "LUNA2/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LUNA2/USD",
+    "fees": {
+      "symbol": "LUNA2/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LUNA/EUR",
+    "fees": {
+      "symbol": "LUNA/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LUNA/USD",
+    "fees": {
+      "symbol": "LUNA/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MANA/ETH",
+    "fees": {
+      "symbol": "MANA/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MANA/EUR",
+    "fees": {
+      "symbol": "MANA/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MANA/USD",
+    "fees": {
+      "symbol": "MANA/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MANA/USDT",
+    "fees": {
+      "symbol": "MANA/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MANA/XBT",
+    "fees": {
+      "symbol": "MANA/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MASK/EUR",
+    "fees": {
+      "symbol": "MASK/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MASK/USD",
+    "fees": {
+      "symbol": "MASK/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MATIC/EUR",
+    "fees": {
+      "symbol": "MATIC/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MATIC/GBP",
+    "fees": {
+      "symbol": "MATIC/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MATIC/USD",
+    "fees": {
+      "symbol": "MATIC/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MATIC/USDT",
+    "fees": {
+      "symbol": "MATIC/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MATIC/XBT",
+    "fees": {
+      "symbol": "MATIC/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MC/EUR",
+    "fees": {
+      "symbol": "MC/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MC/USD",
+    "fees": {
+      "symbol": "MC/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MINA/EUR",
+    "fees": {
+      "symbol": "MINA/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MINA/GBP",
+    "fees": {
+      "symbol": "MINA/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MINA/USD",
+    "fees": {
+      "symbol": "MINA/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MINA/XBT",
+    "fees": {
+      "symbol": "MINA/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MIR/EUR",
+    "fees": {
+      "symbol": "MIR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MIR/USD",
+    "fees": {
+      "symbol": "MIR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MKR/EUR",
+    "fees": {
+      "symbol": "MKR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MKR/USD",
+    "fees": {
+      "symbol": "MKR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MKR/XBT",
+    "fees": {
+      "symbol": "MKR/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MNGO/EUR",
+    "fees": {
+      "symbol": "MNGO/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MNGO/USD",
+    "fees": {
+      "symbol": "MNGO/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MOON/EUR",
+    "fees": {
+      "symbol": "MOON/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MOON/USD",
+    "fees": {
+      "symbol": "MOON/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MOVR/EUR",
+    "fees": {
+      "symbol": "MOVR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MOVR/USD",
+    "fees": {
+      "symbol": "MOVR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MSOL/EUR",
+    "fees": {
+      "symbol": "MSOL/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MSOL/USD",
+    "fees": {
+      "symbol": "MSOL/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MULTI/EUR",
+    "fees": {
+      "symbol": "MULTI/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MULTI/USD",
+    "fees": {
+      "symbol": "MULTI/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MV/EUR",
+    "fees": {
+      "symbol": "MV/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MV/USD",
+    "fees": {
+      "symbol": "MV/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MXC/EUR",
+    "fees": {
+      "symbol": "MXC/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MXC/USD",
+    "fees": {
+      "symbol": "MXC/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "NANO/ETH",
+    "fees": {
+      "symbol": "NANO/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "NANO/EUR",
+    "fees": {
+      "symbol": "NANO/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "NANO/USD",
+    "fees": {
+      "symbol": "NANO/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "NANO/XBT",
+    "fees": {
+      "symbol": "NANO/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "NEAR/EUR",
+    "fees": {
+      "symbol": "NEAR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "NEAR/USD",
+    "fees": {
+      "symbol": "NEAR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "NMR/EUR",
+    "fees": {
+      "symbol": "NMR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "NMR/USD",
+    "fees": {
+      "symbol": "NMR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "NODL/EUR",
+    "fees": {
+      "symbol": "NODL/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "NODL/USD",
+    "fees": {
+      "symbol": "NODL/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "NYM/EUR",
+    "fees": {
+      "symbol": "NYM/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "NYM/USD",
+    "fees": {
+      "symbol": "NYM/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "NYM/XBT",
+    "fees": {
+      "symbol": "NYM/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OCEAN/EUR",
+    "fees": {
+      "symbol": "OCEAN/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OCEAN/GBP",
+    "fees": {
+      "symbol": "OCEAN/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OCEAN/USD",
+    "fees": {
+      "symbol": "OCEAN/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OCEAN/XBT",
+    "fees": {
+      "symbol": "OCEAN/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OGN/EUR",
+    "fees": {
+      "symbol": "OGN/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OGN/USD",
+    "fees": {
+      "symbol": "OGN/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OMG/ETH",
+    "fees": {
+      "symbol": "OMG/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OMG/EUR",
+    "fees": {
+      "symbol": "OMG/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OMG/JPY",
+    "fees": {
+      "symbol": "OMG/JPY",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OMG/USD",
+    "fees": {
+      "symbol": "OMG/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OMG/XBT",
+    "fees": {
+      "symbol": "OMG/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OP/EUR",
+    "fees": {
+      "symbol": "OP/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OP/USD",
+    "fees": {
+      "symbol": "OP/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ORCA/EUR",
+    "fees": {
+      "symbol": "ORCA/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ORCA/USD",
+    "fees": {
+      "symbol": "ORCA/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OXT/EUR",
+    "fees": {
+      "symbol": "OXT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OXT/USD",
+    "fees": {
+      "symbol": "OXT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OXT/XBT",
+    "fees": {
+      "symbol": "OXT/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OXY/EUR",
+    "fees": {
+      "symbol": "OXY/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "OXY/USD",
+    "fees": {
+      "symbol": "OXY/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "PAXG/ETH",
+    "fees": {
+      "symbol": "PAXG/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "PAXG/EUR",
+    "fees": {
+      "symbol": "PAXG/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "PAXG/USD",
+    "fees": {
+      "symbol": "PAXG/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "PAXG/XBT",
+    "fees": {
+      "symbol": "PAXG/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "PEPE/EUR",
+    "fees": {
+      "symbol": "PEPE/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "PEPE/USD",
+    "fees": {
+      "symbol": "PEPE/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "PERP/EUR",
+    "fees": {
+      "symbol": "PERP/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "PERP/USD",
+    "fees": {
+      "symbol": "PERP/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "PHA/EUR",
+    "fees": {
+      "symbol": "PHA/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "PHA/USD",
+    "fees": {
+      "symbol": "PHA/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "POL/EUR",
+    "fees": {
+      "symbol": "POL/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "POLIS/EUR",
+    "fees": {
+      "symbol": "POLIS/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "POLIS/USD",
+    "fees": {
+      "symbol": "POLIS/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "POLS/EUR",
+    "fees": {
+      "symbol": "POLS/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "POLS/USD",
+    "fees": {
+      "symbol": "POLS/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "POL/USD",
+    "fees": {
+      "symbol": "POL/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "POND/EUR",
+    "fees": {
+      "symbol": "POND/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "POND/USD",
+    "fees": {
+      "symbol": "POND/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "POWR/EUR",
+    "fees": {
+      "symbol": "POWR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "POWR/USD",
+    "fees": {
+      "symbol": "POWR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "PSTAKE/EUR",
+    "fees": {
+      "symbol": "PSTAKE/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "PSTAKE/USD",
+    "fees": {
+      "symbol": "PSTAKE/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "PYTH/EUR",
+    "fees": {
+      "symbol": "PYTH/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "PYTH/USD",
+    "fees": {
+      "symbol": "PYTH/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "PYUSD/EUR",
+    "fees": {
+      "symbol": "PYUSD/EUR",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "PYUSD/USD",
+    "fees": {
+      "symbol": "PYUSD/USD",
+      "takerFeeRate": 0.0001,
+      "makerFeeRate": 0
+    }
+  },
+  {
+    "symbol": "QNT/EUR",
+    "fees": {
+      "symbol": "QNT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "QNT/USD",
+    "fees": {
+      "symbol": "QNT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "QTUM/ETH",
+    "fees": {
+      "symbol": "QTUM/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "QTUM/EUR",
+    "fees": {
+      "symbol": "QTUM/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "QTUM/USD",
+    "fees": {
+      "symbol": "QTUM/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "QTUM/XBT",
+    "fees": {
+      "symbol": "QTUM/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RAD/EUR",
+    "fees": {
+      "symbol": "RAD/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RAD/USD",
+    "fees": {
+      "symbol": "RAD/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RARE/EUR",
+    "fees": {
+      "symbol": "RARE/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RARE/USD",
+    "fees": {
+      "symbol": "RARE/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RARI/EUR",
+    "fees": {
+      "symbol": "RARI/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RARI/USD",
+    "fees": {
+      "symbol": "RARI/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RARI/XBT",
+    "fees": {
+      "symbol": "RARI/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RAY/EUR",
+    "fees": {
+      "symbol": "RAY/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RAY/USD",
+    "fees": {
+      "symbol": "RAY/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RBC/EUR",
+    "fees": {
+      "symbol": "RBC/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RBC/USD",
+    "fees": {
+      "symbol": "RBC/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "REN/EUR",
+    "fees": {
+      "symbol": "REN/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "REN/USD",
+    "fees": {
+      "symbol": "REN/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "REN/XBT",
+    "fees": {
+      "symbol": "REN/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "REPV2/ETH",
+    "fees": {
+      "symbol": "REPV2/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "REPV2/EUR",
+    "fees": {
+      "symbol": "REPV2/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "REPV2/USD",
+    "fees": {
+      "symbol": "REPV2/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "REPV2/XBT",
+    "fees": {
+      "symbol": "REPV2/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "REQ/EUR",
+    "fees": {
+      "symbol": "REQ/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "REQ/USD",
+    "fees": {
+      "symbol": "REQ/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RLC/EUR",
+    "fees": {
+      "symbol": "RLC/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RLC/USD",
+    "fees": {
+      "symbol": "RLC/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RNDR/EUR",
+    "fees": {
+      "symbol": "RNDR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RNDR/USD",
+    "fees": {
+      "symbol": "RNDR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ROOK/EUR",
+    "fees": {
+      "symbol": "ROOK/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ROOK/USD",
+    "fees": {
+      "symbol": "ROOK/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RPL/EUR",
+    "fees": {
+      "symbol": "RPL/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RPL/USD",
+    "fees": {
+      "symbol": "RPL/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RUNE/EUR",
+    "fees": {
+      "symbol": "RUNE/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "RUNE/USD",
+    "fees": {
+      "symbol": "RUNE/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SAMO/EUR",
+    "fees": {
+      "symbol": "SAMO/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SAMO/USD",
+    "fees": {
+      "symbol": "SAMO/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SAND/EUR",
+    "fees": {
+      "symbol": "SAND/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SAND/GBP",
+    "fees": {
+      "symbol": "SAND/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SAND/USD",
+    "fees": {
+      "symbol": "SAND/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SAND/XBT",
+    "fees": {
+      "symbol": "SAND/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SBR/EUR",
+    "fees": {
+      "symbol": "SBR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SBR/USD",
+    "fees": {
+      "symbol": "SBR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SC/ETH",
+    "fees": {
+      "symbol": "SC/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SC/EUR",
+    "fees": {
+      "symbol": "SC/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SCRT/EUR",
+    "fees": {
+      "symbol": "SCRT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SCRT/USD",
+    "fees": {
+      "symbol": "SCRT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SC/USD",
+    "fees": {
+      "symbol": "SC/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SC/XBT",
+    "fees": {
+      "symbol": "SC/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SDN/EUR",
+    "fees": {
+      "symbol": "SDN/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SDN/USD",
+    "fees": {
+      "symbol": "SDN/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SEI/EUR",
+    "fees": {
+      "symbol": "SEI/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SEI/USD",
+    "fees": {
+      "symbol": "SEI/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SGB/EUR",
+    "fees": {
+      "symbol": "SGB/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SGB/USD",
+    "fees": {
+      "symbol": "SGB/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SHIB/EUR",
+    "fees": {
+      "symbol": "SHIB/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SHIB/USD",
+    "fees": {
+      "symbol": "SHIB/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SHIB/USDT",
+    "fees": {
+      "symbol": "SHIB/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SNX/ETH",
+    "fees": {
+      "symbol": "SNX/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SNX/EUR",
+    "fees": {
+      "symbol": "SNX/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SNX/USD",
+    "fees": {
+      "symbol": "SNX/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SNX/XBT",
+    "fees": {
+      "symbol": "SNX/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SOL/ETH",
+    "fees": {
+      "symbol": "SOL/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SOL/EUR",
+    "fees": {
+      "symbol": "SOL/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SOL/GBP",
+    "fees": {
+      "symbol": "SOL/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SOL/USD",
+    "fees": {
+      "symbol": "SOL/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SOL/USDT",
+    "fees": {
+      "symbol": "SOL/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SOL/XBT",
+    "fees": {
+      "symbol": "SOL/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SPELL/EUR",
+    "fees": {
+      "symbol": "SPELL/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SPELL/USD",
+    "fees": {
+      "symbol": "SPELL/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SRM/EUR",
+    "fees": {
+      "symbol": "SRM/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SRM/USD",
+    "fees": {
+      "symbol": "SRM/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SRM/XBT",
+    "fees": {
+      "symbol": "SRM/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "STEP/EUR",
+    "fees": {
+      "symbol": "STEP/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "STEP/USD",
+    "fees": {
+      "symbol": "STEP/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "STG/EUR",
+    "fees": {
+      "symbol": "STG/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "STG/USD",
+    "fees": {
+      "symbol": "STG/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "STORJ/EUR",
+    "fees": {
+      "symbol": "STORJ/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "STORJ/USD",
+    "fees": {
+      "symbol": "STORJ/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "STORJ/XBT",
+    "fees": {
+      "symbol": "STORJ/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "STRK/EUR",
+    "fees": {
+      "symbol": "STRK/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "STRK/USD",
+    "fees": {
+      "symbol": "STRK/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "STX/EUR",
+    "fees": {
+      "symbol": "STX/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "STX/USD",
+    "fees": {
+      "symbol": "STX/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SUI/EUR",
+    "fees": {
+      "symbol": "SUI/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SUI/USD",
+    "fees": {
+      "symbol": "SUI/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SUPER/EUR",
+    "fees": {
+      "symbol": "SUPER/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SUPER/USD",
+    "fees": {
+      "symbol": "SUPER/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SUSHI/EUR",
+    "fees": {
+      "symbol": "SUSHI/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SUSHI/GBP",
+    "fees": {
+      "symbol": "SUSHI/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SUSHI/USD",
+    "fees": {
+      "symbol": "SUSHI/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SUSHI/XBT",
+    "fees": {
+      "symbol": "SUSHI/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SYN/EUR",
+    "fees": {
+      "symbol": "SYN/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "SYN/USD",
+    "fees": {
+      "symbol": "SYN/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TBTC/EUR",
+    "fees": {
+      "symbol": "TBTC/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TBTC/USD",
+    "fees": {
+      "symbol": "TBTC/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TBTC/XBT",
+    "fees": {
+      "symbol": "TBTC/XBT",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "TEER/EUR",
+    "fees": {
+      "symbol": "TEER/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TEER/USD",
+    "fees": {
+      "symbol": "TEER/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "T/EUR",
+    "fees": {
+      "symbol": "T/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TIA/EUR",
+    "fees": {
+      "symbol": "TIA/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TIA/USD",
+    "fees": {
+      "symbol": "TIA/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TLM/EUR",
+    "fees": {
+      "symbol": "TLM/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TLM/USD",
+    "fees": {
+      "symbol": "TLM/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TOKE/EUR",
+    "fees": {
+      "symbol": "TOKE/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TOKE/USD",
+    "fees": {
+      "symbol": "TOKE/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TRU/EUR",
+    "fees": {
+      "symbol": "TRU/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TRU/USD",
+    "fees": {
+      "symbol": "TRU/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TRX/ETH",
+    "fees": {
+      "symbol": "TRX/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TRX/EUR",
+    "fees": {
+      "symbol": "TRX/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TRX/USD",
+    "fees": {
+      "symbol": "TRX/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TRX/XBT",
+    "fees": {
+      "symbol": "TRX/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "T/USD",
+    "fees": {
+      "symbol": "T/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TUSD/EUR",
+    "fees": {
+      "symbol": "TUSD/EUR",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "TUSD/USD",
+    "fees": {
+      "symbol": "TUSD/USD",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "TVK/EUR",
+    "fees": {
+      "symbol": "TVK/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "TVK/USD",
+    "fees": {
+      "symbol": "TVK/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "UMA/EUR",
+    "fees": {
+      "symbol": "UMA/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "UMA/USD",
+    "fees": {
+      "symbol": "UMA/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "UNFI/EUR",
+    "fees": {
+      "symbol": "UNFI/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "UNFI/USD",
+    "fees": {
+      "symbol": "UNFI/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "UNI/ETH",
+    "fees": {
+      "symbol": "UNI/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "UNI/EUR",
+    "fees": {
+      "symbol": "UNI/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "UNI/USD",
+    "fees": {
+      "symbol": "UNI/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "UNI/XBT",
+    "fees": {
+      "symbol": "UNI/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "USD/AED",
+    "fees": {
+      "symbol": "USD/AED",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "USDC/AUD",
+    "fees": {
+      "symbol": "USDC/AUD",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "USDC/CAD",
+    "fees": {
+      "symbol": "USDC/CAD",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "USDC/CHF",
+    "fees": {
+      "symbol": "USDC/CHF",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "USDC/EUR",
+    "fees": {
+      "symbol": "USDC/EUR",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "USDC/GBP",
+    "fees": {
+      "symbol": "USDC/GBP",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "USD/CHF",
+    "fees": {
+      "symbol": "USD/CHF",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "USDC/USD",
+    "fees": {
+      "symbol": "USDC/USD",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "USDC/USDT",
+    "fees": {
+      "symbol": "USDC/USDT",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "USDT/AUD",
+    "fees": {
+      "symbol": "USDT/AUD",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "USDT/CAD",
+    "fees": {
+      "symbol": "USDT/CAD",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "USDT/CHF",
+    "fees": {
+      "symbol": "USDT/CHF",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "USDT/EUR",
+    "fees": {
+      "symbol": "USDT/EUR",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "USDT/GBP",
+    "fees": {
+      "symbol": "USDT/GBP",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "USDT/JPY",
+    "fees": {
+      "symbol": "USDT/JPY",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "USDT/USD",
+    "fees": {
+      "symbol": "USDT/USD",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "UST/EUR",
+    "fees": {
+      "symbol": "UST/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "UST/USD",
+    "fees": {
+      "symbol": "UST/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "UST/USDC",
+    "fees": {
+      "symbol": "UST/USDC",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "UST/USDT",
+    "fees": {
+      "symbol": "UST/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "WAVES/ETH",
+    "fees": {
+      "symbol": "WAVES/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "WAVES/EUR",
+    "fees": {
+      "symbol": "WAVES/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "WAVES/USD",
+    "fees": {
+      "symbol": "WAVES/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "WAVES/XBT",
+    "fees": {
+      "symbol": "WAVES/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "WAXL/EUR",
+    "fees": {
+      "symbol": "WAXL/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "WAXL/USD",
+    "fees": {
+      "symbol": "WAXL/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "WBTC/EUR",
+    "fees": {
+      "symbol": "WBTC/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "WBTC/USD",
+    "fees": {
+      "symbol": "WBTC/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "WBTC/XBT",
+    "fees": {
+      "symbol": "WBTC/XBT",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "WIF/EUR",
+    "fees": {
+      "symbol": "WIF/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "WIF/USD",
+    "fees": {
+      "symbol": "WIF/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "WOO/EUR",
+    "fees": {
+      "symbol": "WOO/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "WOO/USD",
+    "fees": {
+      "symbol": "WOO/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XBT/AED",
+    "fees": {
+      "symbol": "XBT/AED",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XBT/AUD",
+    "fees": {
+      "symbol": "XBT/AUD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XBT/CHF",
+    "fees": {
+      "symbol": "XBT/CHF",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XBT/DAI",
+    "fees": {
+      "symbol": "XBT/DAI",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XBT/PYUSD",
+    "fees": {
+      "symbol": "XBT/PYUSD",
+      "takerFeeRate": 0.0001,
+      "makerFeeRate": 0
+    }
+  },
+  {
+    "symbol": "XBT/USDC",
+    "fees": {
+      "symbol": "XBT/USDC",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XBT/USDT",
+    "fees": {
+      "symbol": "XBT/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XCN/EUR",
+    "fees": {
+      "symbol": "XCN/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XCN/USD",
+    "fees": {
+      "symbol": "XCN/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XDG/EUR",
+    "fees": {
+      "symbol": "XDG/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XDG/USD",
+    "fees": {
+      "symbol": "XDG/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XDG/USDT",
+    "fees": {
+      "symbol": "XDG/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETC/ETH",
+    "fees": {
+      "symbol": "ETC/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETC/XBT",
+    "fees": {
+      "symbol": "ETC/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETC/EUR",
+    "fees": {
+      "symbol": "ETC/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETC/USD",
+    "fees": {
+      "symbol": "ETC/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETH/XBT",
+    "fees": {
+      "symbol": "ETH/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETH/CAD",
+    "fees": {
+      "symbol": "ETH/CAD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETH/EUR",
+    "fees": {
+      "symbol": "ETH/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETH/GBP",
+    "fees": {
+      "symbol": "ETH/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETH/JPY",
+    "fees": {
+      "symbol": "ETH/JPY",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ETH/USD",
+    "fees": {
+      "symbol": "ETH/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LTC/XBT",
+    "fees": {
+      "symbol": "LTC/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LTC/EUR",
+    "fees": {
+      "symbol": "LTC/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LTC/JPY",
+    "fees": {
+      "symbol": "LTC/JPY",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "LTC/USD",
+    "fees": {
+      "symbol": "LTC/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MLN/ETH",
+    "fees": {
+      "symbol": "MLN/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MLN/XBT",
+    "fees": {
+      "symbol": "MLN/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MLN/EUR",
+    "fees": {
+      "symbol": "MLN/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "MLN/USD",
+    "fees": {
+      "symbol": "MLN/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XMR/USDT",
+    "fees": {
+      "symbol": "XMR/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "REP/XBT",
+    "fees": {
+      "symbol": "REP/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "REP/EUR",
+    "fees": {
+      "symbol": "REP/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "REP/USD",
+    "fees": {
+      "symbol": "REP/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XRP/AUD",
+    "fees": {
+      "symbol": "XRP/AUD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XRP/ETH",
+    "fees": {
+      "symbol": "XRP/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XRP/GBP",
+    "fees": {
+      "symbol": "XRP/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XRP/USDT",
+    "fees": {
+      "symbol": "XRP/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XRT/EUR",
+    "fees": {
+      "symbol": "XRT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XRT/USD",
+    "fees": {
+      "symbol": "XRT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XTZ/AUD",
+    "fees": {
+      "symbol": "XTZ/AUD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XTZ/ETH",
+    "fees": {
+      "symbol": "XTZ/ETH",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XTZ/EUR",
+    "fees": {
+      "symbol": "XTZ/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XTZ/GBP",
+    "fees": {
+      "symbol": "XTZ/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XTZ/USD",
+    "fees": {
+      "symbol": "XTZ/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XTZ/USDT",
+    "fees": {
+      "symbol": "XTZ/USDT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XTZ/XBT",
+    "fees": {
+      "symbol": "XTZ/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XBT/CAD",
+    "fees": {
+      "symbol": "XBT/CAD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XBT/EUR",
+    "fees": {
+      "symbol": "XBT/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XBT/GBP",
+    "fees": {
+      "symbol": "XBT/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XBT/JPY",
+    "fees": {
+      "symbol": "XBT/JPY",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XBT/USD",
+    "fees": {
+      "symbol": "XBT/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XDG/XBT",
+    "fees": {
+      "symbol": "XDG/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XLM/XBT",
+    "fees": {
+      "symbol": "XLM/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XLM/EUR",
+    "fees": {
+      "symbol": "XLM/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XLM/GBP",
+    "fees": {
+      "symbol": "XLM/GBP",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XLM/USD",
+    "fees": {
+      "symbol": "XLM/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XMR/XBT",
+    "fees": {
+      "symbol": "XMR/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XMR/EUR",
+    "fees": {
+      "symbol": "XMR/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XMR/USD",
+    "fees": {
+      "symbol": "XMR/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XRP/XBT",
+    "fees": {
+      "symbol": "XRP/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XRP/CAD",
+    "fees": {
+      "symbol": "XRP/CAD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XRP/EUR",
+    "fees": {
+      "symbol": "XRP/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XRP/JPY",
+    "fees": {
+      "symbol": "XRP/JPY",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "XRP/USD",
+    "fees": {
+      "symbol": "XRP/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ZEC/XBT",
+    "fees": {
+      "symbol": "ZEC/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ZEC/EUR",
+    "fees": {
+      "symbol": "ZEC/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ZEC/USD",
+    "fees": {
+      "symbol": "ZEC/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "YFI/EUR",
+    "fees": {
+      "symbol": "YFI/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "YFI/USD",
+    "fees": {
+      "symbol": "YFI/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "YFI/XBT",
+    "fees": {
+      "symbol": "YFI/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "YGG/EUR",
+    "fees": {
+      "symbol": "YGG/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "YGG/USD",
+    "fees": {
+      "symbol": "YGG/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "EUR/USD",
+    "fees": {
+      "symbol": "EUR/USD",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "GBP/USD",
+    "fees": {
+      "symbol": "GBP/USD",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "ZRX/EUR",
+    "fees": {
+      "symbol": "ZRX/EUR",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ZRX/USD",
+    "fees": {
+      "symbol": "ZRX/USD",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "ZRX/XBT",
+    "fees": {
+      "symbol": "ZRX/XBT",
+      "takerFeeRate": 0.0026,
+      "makerFeeRate": 0.0016
+    }
+  },
+  {
+    "symbol": "USD/CAD",
+    "fees": {
+      "symbol": "USD/CAD",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  },
+  {
+    "symbol": "USD/JPY",
+    "fees": {
+      "symbol": "USD/JPY",
+      "takerFeeRate": 0.002,
+      "makerFeeRate": 0.002
+    }
+  }
+]

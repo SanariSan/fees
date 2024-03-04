@@ -1,0 +1,9498 @@
+[
+  {
+    "symbol": "BTC-BRL",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "BRL",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559727121"
+      }
+    ]
+  },
+  {
+    "symbol": "USDT-BRL",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "BRL",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559727129"
+      }
+    ]
+  },
+  {
+    "symbol": "ETH-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559727139"
+      }
+    ]
+  },
+  {
+    "symbol": "BTC-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559727144"
+      }
+    ]
+  },
+  {
+    "symbol": "ETH-BRL",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "BRL",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559727152"
+      }
+    ]
+  },
+  {
+    "symbol": "DOGE-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559732574"
+      }
+    ]
+  },
+  {
+    "symbol": "SHIB-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559732581"
+      }
+    ]
+  },
+  {
+    "symbol": "1INCH-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559732580"
+      }
+    ]
+  },
+  {
+    "symbol": "ADA-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559732580"
+      }
+    ]
+  },
+  {
+    "symbol": "SOL-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559732584"
+      }
+    ]
+  },
+  {
+    "symbol": "AVAX-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559738005"
+      }
+    ]
+  },
+  {
+    "symbol": "CRV-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559738010"
+      }
+    ]
+  },
+  {
+    "symbol": "DOT-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559738020"
+      }
+    ]
+  },
+  {
+    "symbol": "DYDX-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559738121"
+      }
+    ]
+  },
+  {
+    "symbol": "COMP-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559738121"
+      }
+    ]
+  },
+  {
+    "symbol": "TRX-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559743473"
+      }
+    ]
+  },
+  {
+    "symbol": "LTC-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559743475"
+      }
+    ]
+  },
+  {
+    "symbol": "SUSHI-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559743479"
+      }
+    ]
+  },
+  {
+    "symbol": "EOS-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559743478"
+      }
+    ]
+  },
+  {
+    "symbol": "LINK-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559743480"
+      }
+    ]
+  },
+  {
+    "symbol": "BTC-TRY",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "TRY",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559748960"
+      }
+    ]
+  },
+  {
+    "symbol": "UNI-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559748960"
+      }
+    ]
+  },
+  {
+    "symbol": "USDT-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559748969"
+      }
+    ]
+  },
+  {
+    "symbol": "USDC-EUR",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "EUR",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559748969"
+      }
+    ]
+  },
+  {
+    "symbol": "ETH-TRY",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "TRY",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559748968"
+      }
+    ]
+  },
+  {
+    "symbol": "OKB-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559754339"
+      }
+    ]
+  },
+  {
+    "symbol": "USDT-TRY",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [
+          {
+            "ccy": "TRY",
+            "maker": "-0.0005",
+            "taker": "-0.0007"
+          }
+        ],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559754339"
+      }
+    ]
+  },
+  {
+    "symbol": "BTC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559754354"
+      }
+    ]
+  },
+  {
+    "symbol": "ETH-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559754591"
+      }
+    ]
+  },
+  {
+    "symbol": "MATIC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559754588"
+      }
+    ]
+  },
+  {
+    "symbol": "SOL-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559759986"
+      }
+    ]
+  },
+  {
+    "symbol": "PEPE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559759978"
+      }
+    ]
+  },
+  {
+    "symbol": "SHIB-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559759983"
+      }
+    ]
+  },
+  {
+    "symbol": "XRP-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559759993"
+      }
+    ]
+  },
+  {
+    "symbol": "DOGE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559760009"
+      }
+    ]
+  },
+  {
+    "symbol": "1INCH-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559765384"
+      }
+    ]
+  },
+  {
+    "symbol": "FIL-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559765384"
+      }
+    ]
+  },
+  {
+    "symbol": "GPT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559765495"
+      }
+    ]
+  },
+  {
+    "symbol": "AAVE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559765498"
+      }
+    ]
+  },
+  {
+    "symbol": "SATS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559765494"
+      }
+    ]
+  },
+  {
+    "symbol": "ACH-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559770860"
+      }
+    ]
+  },
+  {
+    "symbol": "ACA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559770867"
+      }
+    ]
+  },
+  {
+    "symbol": "ACE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559770871"
+      }
+    ]
+  },
+  {
+    "symbol": "AERGO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559770872"
+      }
+    ]
+  },
+  {
+    "symbol": "ADA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559770868"
+      }
+    ]
+  },
+  {
+    "symbol": "AGLD-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559776368"
+      }
+    ]
+  },
+  {
+    "symbol": "AGIX-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559776372"
+      }
+    ]
+  },
+  {
+    "symbol": "AIDOGE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559776443"
+      }
+    ]
+  },
+  {
+    "symbol": "AKITA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559776456"
+      }
+    ]
+  },
+  {
+    "symbol": "ALCX-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559776462"
+      }
+    ]
+  },
+  {
+    "symbol": "API3-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559781903"
+      }
+    ]
+  },
+  {
+    "symbol": "ALPHA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559781903"
+      }
+    ]
+  },
+  {
+    "symbol": "ALGO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559781909"
+      }
+    ]
+  },
+  {
+    "symbol": "ANT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559781963"
+      }
+    ]
+  },
+  {
+    "symbol": "APE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559781965"
+      }
+    ]
+  },
+  {
+    "symbol": "AR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559787353"
+      }
+    ]
+  },
+  {
+    "symbol": "APM-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559787359"
+      }
+    ]
+  },
+  {
+    "symbol": "ARB-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559787362"
+      }
+    ]
+  },
+  {
+    "symbol": "ARG-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559787365"
+      }
+    ]
+  },
+  {
+    "symbol": "APT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559787375"
+      }
+    ]
+  },
+  {
+    "symbol": "ARTY-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559792736"
+      }
+    ]
+  },
+  {
+    "symbol": "AST-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559792742"
+      }
+    ]
+  },
+  {
+    "symbol": "ASTR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559792731"
+      }
+    ]
+  },
+  {
+    "symbol": "ATOM-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559792741"
+      }
+    ]
+  },
+  {
+    "symbol": "AUCTION-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559792738"
+      }
+    ]
+  },
+  {
+    "symbol": "AVIVE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559798112"
+      }
+    ]
+  },
+  {
+    "symbol": "AVAX-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559798119"
+      }
+    ]
+  },
+  {
+    "symbol": "AXS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559798118"
+      }
+    ]
+  },
+  {
+    "symbol": "AZY-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559798120"
+      }
+    ]
+  },
+  {
+    "symbol": "BABYDOGE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559798133"
+      }
+    ]
+  },
+  {
+    "symbol": "BAND-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559803541"
+      }
+    ]
+  },
+  {
+    "symbol": "BAL-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559803539"
+      }
+    ]
+  },
+  {
+    "symbol": "BADGER-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559803545"
+      }
+    ]
+  },
+  {
+    "symbol": "BAT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559803553"
+      }
+    ]
+  },
+  {
+    "symbol": "BCH-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559803638"
+      }
+    ]
+  },
+  {
+    "symbol": "BLUR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559808993"
+      }
+    ]
+  },
+  {
+    "symbol": "BLOK-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559808988"
+      }
+    ]
+  },
+  {
+    "symbol": "BETH-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559808998"
+      }
+    ]
+  },
+  {
+    "symbol": "BICO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559808990"
+      }
+    ]
+  },
+  {
+    "symbol": "BIGTIME-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559809020"
+      }
+    ]
+  },
+  {
+    "symbol": "BNB-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559814374"
+      }
+    ]
+  },
+  {
+    "symbol": "BONE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559814373"
+      }
+    ]
+  },
+  {
+    "symbol": "BORING-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559814379"
+      }
+    ]
+  },
+  {
+    "symbol": "BNT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559814379"
+      }
+    ]
+  },
+  {
+    "symbol": "BONK-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559814383"
+      }
+    ]
+  },
+  {
+    "symbol": "BSV-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559819826"
+      }
+    ]
+  },
+  {
+    "symbol": "BZZ-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559819830"
+      }
+    ]
+  },
+  {
+    "symbol": "BTT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559819830"
+      }
+    ]
+  },
+  {
+    "symbol": "BRWL-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559819832"
+      }
+    ]
+  },
+  {
+    "symbol": "BORA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559819838"
+      }
+    ]
+  },
+  {
+    "symbol": "CELO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559825182"
+      }
+    ]
+  },
+  {
+    "symbol": "CEEK-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559825188"
+      }
+    ]
+  },
+  {
+    "symbol": "CELR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559825196"
+      }
+    ]
+  },
+  {
+    "symbol": "CETUS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559825196"
+      }
+    ]
+  },
+  {
+    "symbol": "CEL-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559825218"
+      }
+    ]
+  },
+  {
+    "symbol": "CITY-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559830592"
+      }
+    ]
+  },
+  {
+    "symbol": "CFG-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559830597"
+      }
+    ]
+  },
+  {
+    "symbol": "CHZ-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559830598"
+      }
+    ]
+  },
+  {
+    "symbol": "CFX-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559830598"
+      }
+    ]
+  },
+  {
+    "symbol": "CGL-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559830613"
+      }
+    ]
+  },
+  {
+    "symbol": "CONV-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559835970"
+      }
+    ]
+  },
+  {
+    "symbol": "CORE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559835976"
+      }
+    ]
+  },
+  {
+    "symbol": "CLV-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559835978"
+      }
+    ]
+  },
+  {
+    "symbol": "COMP-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559835969"
+      }
+    ]
+  },
+  {
+    "symbol": "CQT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559835978"
+      }
+    ]
+  },
+  {
+    "symbol": "CRV-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559841348"
+      }
+    ]
+  },
+  {
+    "symbol": "CRO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559841360"
+      }
+    ]
+  },
+  {
+    "symbol": "CSPR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559841362"
+      }
+    ]
+  },
+  {
+    "symbol": "CTXC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559841364"
+      }
+    ]
+  },
+  {
+    "symbol": "CTC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559841352"
+      }
+    ]
+  },
+  {
+    "symbol": "CVC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559846761"
+      }
+    ]
+  },
+  {
+    "symbol": "DAO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559846778"
+      }
+    ]
+  },
+  {
+    "symbol": "CVX-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559846778"
+      }
+    ]
+  },
+  {
+    "symbol": "DCR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559846777"
+      }
+    ]
+  },
+  {
+    "symbol": "DAI-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559846797"
+      }
+    ]
+  },
+  {
+    "symbol": "DMAIL-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559852154"
+      }
+    ]
+  },
+  {
+    "symbol": "DEP-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559852157"
+      }
+    ]
+  },
+  {
+    "symbol": "DIA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559852171"
+      }
+    ]
+  },
+  {
+    "symbol": "DORA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559852172"
+      }
+    ]
+  },
+  {
+    "symbol": "DGB-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559852275"
+      }
+    ]
+  },
+  {
+    "symbol": "DOSE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559857634"
+      }
+    ]
+  },
+  {
+    "symbol": "ELF-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559857638"
+      }
+    ]
+  },
+  {
+    "symbol": "EGLD-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559857639"
+      }
+    ]
+  },
+  {
+    "symbol": "DYDX-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559857647"
+      }
+    ]
+  },
+  {
+    "symbol": "DOT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559857642"
+      }
+    ]
+  },
+  {
+    "symbol": "EM-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559863059"
+      }
+    ]
+  },
+  {
+    "symbol": "ELON-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559863053"
+      }
+    ]
+  },
+  {
+    "symbol": "EOS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559863129"
+      }
+    ]
+  },
+  {
+    "symbol": "ENS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559863131"
+      }
+    ]
+  },
+  {
+    "symbol": "ENJ-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559863251"
+      }
+    ]
+  },
+  {
+    "symbol": "ETHW-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559868632"
+      }
+    ]
+  },
+  {
+    "symbol": "FET-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559868636"
+      }
+    ]
+  },
+  {
+    "symbol": "EURT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559868640"
+      }
+    ]
+  },
+  {
+    "symbol": "ETC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559868639"
+      }
+    ]
+  },
+  {
+    "symbol": "ERN-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559868645"
+      }
+    ]
+  },
+  {
+    "symbol": "FLR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559873999"
+      }
+    ]
+  },
+  {
+    "symbol": "FLOKI-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559873993"
+      }
+    ]
+  },
+  {
+    "symbol": "FLOW-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559874002"
+      }
+    ]
+  },
+  {
+    "symbol": "FLM-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559874006"
+      }
+    ]
+  },
+  {
+    "symbol": "FITFI-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559874102"
+      }
+    ]
+  },
+  {
+    "symbol": "FXS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559879447"
+      }
+    ]
+  },
+  {
+    "symbol": "FRONT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559879450"
+      }
+    ]
+  },
+  {
+    "symbol": "FORTH-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559879448"
+      }
+    ]
+  },
+  {
+    "symbol": "FTM-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559879456"
+      }
+    ]
+  },
+  {
+    "symbol": "GALA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559879460"
+      }
+    ]
+  },
+  {
+    "symbol": "GAS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559884816"
+      }
+    ]
+  },
+  {
+    "symbol": "GARI-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559884819"
+      }
+    ]
+  },
+  {
+    "symbol": "GAL-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559884816"
+      }
+    ]
+  },
+  {
+    "symbol": "GALFT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559884819"
+      }
+    ]
+  },
+  {
+    "symbol": "GEAR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559884824"
+      }
+    ]
+  },
+  {
+    "symbol": "GF-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559890264"
+      }
+    ]
+  },
+  {
+    "symbol": "GLM-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559890267"
+      }
+    ]
+  },
+  {
+    "symbol": "GLMR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559890275"
+      }
+    ]
+  },
+  {
+    "symbol": "GFT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559890275"
+      }
+    ]
+  },
+  {
+    "symbol": "GHST-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559890389"
+      }
+    ]
+  },
+  {
+    "symbol": "GODS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559895745"
+      }
+    ]
+  },
+  {
+    "symbol": "GOAL-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559895742"
+      }
+    ]
+  },
+  {
+    "symbol": "GMT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559895753"
+      }
+    ]
+  },
+  {
+    "symbol": "GOG-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559895756"
+      }
+    ]
+  },
+  {
+    "symbol": "GMX-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559895753"
+      }
+    ]
+  },
+  {
+    "symbol": "HBAR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559901133"
+      }
+    ]
+  },
+  {
+    "symbol": "HC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559901129"
+      }
+    ]
+  },
+  {
+    "symbol": "GRT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559901136"
+      }
+    ]
+  },
+  {
+    "symbol": "ICE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559901136"
+      }
+    ]
+  },
+  {
+    "symbol": "ICP-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559901159"
+      }
+    ]
+  },
+  {
+    "symbol": "ILV-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559906572"
+      }
+    ]
+  },
+  {
+    "symbol": "IGU-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559906569"
+      }
+    ]
+  },
+  {
+    "symbol": "ID-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559906575"
+      }
+    ]
+  },
+  {
+    "symbol": "ICX-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559906586"
+      }
+    ]
+  },
+  {
+    "symbol": "IMX-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559906583"
+      }
+    ]
+  },
+  {
+    "symbol": "INJ-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559911979"
+      }
+    ]
+  },
+  {
+    "symbol": "IOTA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559911983"
+      }
+    ]
+  },
+  {
+    "symbol": "IQ-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559912000"
+      }
+    ]
+  },
+  {
+    "symbol": "JOE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559911993"
+      }
+    ]
+  },
+  {
+    "symbol": "IOST-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559911990"
+      }
+    ]
+  },
+  {
+    "symbol": "JPG-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559917401"
+      }
+    ]
+  },
+  {
+    "symbol": "JST-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559917411"
+      }
+    ]
+  },
+  {
+    "symbol": "JUP-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559917514"
+      }
+    ]
+  },
+  {
+    "symbol": "KAN-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559917517"
+      }
+    ]
+  },
+  {
+    "symbol": "JTO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559917513"
+      }
+    ]
+  },
+  {
+    "symbol": "KAR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559922866"
+      }
+    ]
+  },
+  {
+    "symbol": "KCAL-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559922912"
+      }
+    ]
+  },
+  {
+    "symbol": "KDA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559922984"
+      }
+    ]
+  },
+  {
+    "symbol": "KINE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559922986"
+      }
+    ]
+  },
+  {
+    "symbol": "KISHU-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559923021"
+      }
+    ]
+  },
+  {
+    "symbol": "KNC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559928365"
+      }
+    ]
+  },
+  {
+    "symbol": "LAMB-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559928369"
+      }
+    ]
+  },
+  {
+    "symbol": "KP3R-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559928377"
+      }
+    ]
+  },
+  {
+    "symbol": "KSM-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559928384"
+      }
+    ]
+  },
+  {
+    "symbol": "KLAY-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559928377"
+      }
+    ]
+  },
+  {
+    "symbol": "LEASH-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559933800"
+      }
+    ]
+  },
+  {
+    "symbol": "LBR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559933798"
+      }
+    ]
+  },
+  {
+    "symbol": "LAT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559933903"
+      }
+    ]
+  },
+  {
+    "symbol": "LDO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559933906"
+      }
+    ]
+  },
+  {
+    "symbol": "LEO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559933912"
+      }
+    ]
+  },
+  {
+    "symbol": "LET-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559939323"
+      }
+    ]
+  },
+  {
+    "symbol": "LING-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559939326"
+      }
+    ]
+  },
+  {
+    "symbol": "LHINU-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559939420"
+      }
+    ]
+  },
+  {
+    "symbol": "LITH-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559939422"
+      }
+    ]
+  },
+  {
+    "symbol": "LINK-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559939428"
+      }
+    ]
+  },
+  {
+    "symbol": "LON-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559944776"
+      }
+    ]
+  },
+  {
+    "symbol": "LRC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559944777"
+      }
+    ]
+  },
+  {
+    "symbol": "LOOKS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559944777"
+      }
+    ]
+  },
+  {
+    "symbol": "LQTY-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559944783"
+      }
+    ]
+  },
+  {
+    "symbol": "LPT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559944784"
+      }
+    ]
+  },
+  {
+    "symbol": "LSK-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559950143"
+      }
+    ]
+  },
+  {
+    "symbol": "LUNA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559950245"
+      }
+    ]
+  },
+  {
+    "symbol": "LTC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559950252"
+      }
+    ]
+  },
+  {
+    "symbol": "MAGIC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559950258"
+      }
+    ]
+  },
+  {
+    "symbol": "LUNC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559950260"
+      }
+    ]
+  },
+  {
+    "symbol": "MANA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559955605"
+      }
+    ]
+  },
+  {
+    "symbol": "MEME-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559955604"
+      }
+    ]
+  },
+  {
+    "symbol": "MENGO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559955614"
+      }
+    ]
+  },
+  {
+    "symbol": "MDT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559955621"
+      }
+    ]
+  },
+  {
+    "symbol": "MASK-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559955708"
+      }
+    ]
+  },
+  {
+    "symbol": "MINA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559961072"
+      }
+    ]
+  },
+  {
+    "symbol": "MKR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559961073"
+      }
+    ]
+  },
+  {
+    "symbol": "MILO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559961072"
+      }
+    ]
+  },
+  {
+    "symbol": "MLN-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559961076"
+      }
+    ]
+  },
+  {
+    "symbol": "METIS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559961076"
+      }
+    ]
+  },
+  {
+    "symbol": "MYRIA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559966423"
+      }
+    ]
+  },
+  {
+    "symbol": "MXC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559966437"
+      }
+    ]
+  },
+  {
+    "symbol": "MOVEZ-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559966435"
+      }
+    ]
+  },
+  {
+    "symbol": "MOVR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559966441"
+      }
+    ]
+  },
+  {
+    "symbol": "MRST-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559966533"
+      }
+    ]
+  },
+  {
+    "symbol": "NEAR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559971886"
+      }
+    ]
+  },
+  {
+    "symbol": "NFT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559971894"
+      }
+    ]
+  },
+  {
+    "symbol": "NMR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559971900"
+      }
+    ]
+  },
+  {
+    "symbol": "NEO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559971901"
+      }
+    ]
+  },
+  {
+    "symbol": "NULS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559971908"
+      }
+    ]
+  },
+  {
+    "symbol": "OM-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559977266"
+      }
+    ]
+  },
+  {
+    "symbol": "OAS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559977260"
+      }
+    ]
+  },
+  {
+    "symbol": "NYM-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559977270"
+      }
+    ]
+  },
+  {
+    "symbol": "OMG-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559977273"
+      }
+    ]
+  },
+  {
+    "symbol": "OKT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559977267"
+      }
+    ]
+  },
+  {
+    "symbol": "OMN-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559982631"
+      }
+    ]
+  },
+  {
+    "symbol": "ONE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559982640"
+      }
+    ]
+  },
+  {
+    "symbol": "ONT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559982642"
+      }
+    ]
+  },
+  {
+    "symbol": "OP-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559982648"
+      }
+    ]
+  },
+  {
+    "symbol": "OMI-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559982672"
+      }
+    ]
+  },
+  {
+    "symbol": "OXT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559988176"
+      }
+    ]
+  },
+  {
+    "symbol": "ORB-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559988173"
+      }
+    ]
+  },
+  {
+    "symbol": "ORDI-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559988174"
+      }
+    ]
+  },
+  {
+    "symbol": "ORBS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559988177"
+      }
+    ]
+  },
+  {
+    "symbol": "PCI-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559988183"
+      }
+    ]
+  },
+  {
+    "symbol": "PEOPLE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559993547"
+      }
+    ]
+  },
+  {
+    "symbol": "PERP-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559993552"
+      }
+    ]
+  },
+  {
+    "symbol": "POLS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559993567"
+      }
+    ]
+  },
+  {
+    "symbol": "PHA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559993571"
+      }
+    ]
+  },
+  {
+    "symbol": "PIT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559993579"
+      }
+    ]
+  },
+  {
+    "symbol": "PYTH-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559998945"
+      }
+    ]
+  },
+  {
+    "symbol": "POLYDOGE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559998949"
+      }
+    ]
+  },
+  {
+    "symbol": "PSTAKE-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559998953"
+      }
+    ]
+  },
+  {
+    "symbol": "PRQ-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559998950"
+      }
+    ]
+  },
+  {
+    "symbol": "POR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709559998958"
+      }
+    ]
+  },
+  {
+    "symbol": "RDNT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560004347"
+      }
+    ]
+  },
+  {
+    "symbol": "QTUM-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560004356"
+      }
+    ]
+  },
+  {
+    "symbol": "RADAR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560004355"
+      }
+    ]
+  },
+  {
+    "symbol": "RACA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560004355"
+      }
+    ]
+  },
+  {
+    "symbol": "RAY-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560004367"
+      }
+    ]
+  },
+  {
+    "symbol": "REVV-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560009776"
+      }
+    ]
+  },
+  {
+    "symbol": "REN-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560009774"
+      }
+    ]
+  },
+  {
+    "symbol": "REP-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560009783"
+      }
+    ]
+  },
+  {
+    "symbol": "RNDR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560009784"
+      }
+    ]
+  },
+  {
+    "symbol": "RIO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560009913"
+      }
+    ]
+  },
+  {
+    "symbol": "RON-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560015285"
+      }
+    ]
+  },
+  {
+    "symbol": "RSS3-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560015289"
+      }
+    ]
+  },
+  {
+    "symbol": "RSR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560015294"
+      }
+    ]
+  },
+  {
+    "symbol": "RPL-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560015303"
+      }
+    ]
+  },
+  {
+    "symbol": "RVN-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560015407"
+      }
+    ]
+  },
+  {
+    "symbol": "SAMO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560020764"
+      }
+    ]
+  },
+  {
+    "symbol": "SAND-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560020772"
+      }
+    ]
+  },
+  {
+    "symbol": "SIS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560020772"
+      }
+    ]
+  },
+  {
+    "symbol": "SC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560020777"
+      }
+    ]
+  },
+  {
+    "symbol": "SD-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560020793"
+      }
+    ]
+  },
+  {
+    "symbol": "SLN-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560026154"
+      }
+    ]
+  },
+  {
+    "symbol": "SNT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560026152"
+      }
+    ]
+  },
+  {
+    "symbol": "SLP-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560026154"
+      }
+    ]
+  },
+  {
+    "symbol": "SKL-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560026292"
+      }
+    ]
+  },
+  {
+    "symbol": "SKEB-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560026291"
+      }
+    ]
+  },
+  {
+    "symbol": "SPURS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560031651"
+      }
+    ]
+  },
+  {
+    "symbol": "SNX-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560031646"
+      }
+    ]
+  },
+  {
+    "symbol": "SPELL-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560031648"
+      }
+    ]
+  },
+  {
+    "symbol": "SSV-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560031654"
+      }
+    ]
+  },
+  {
+    "symbol": "SSWP-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560031663"
+      }
+    ]
+  },
+  {
+    "symbol": "STETH-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560037022"
+      }
+    ]
+  },
+  {
+    "symbol": "STRK-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560037027"
+      }
+    ]
+  },
+  {
+    "symbol": "STC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560037023"
+      }
+    ]
+  },
+  {
+    "symbol": "STARL-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560037044"
+      }
+    ]
+  },
+  {
+    "symbol": "STORJ-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560037168"
+      }
+    ]
+  },
+  {
+    "symbol": "STX-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560042505"
+      }
+    ]
+  },
+  {
+    "symbol": "SUSHI-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560042518"
+      }
+    ]
+  },
+  {
+    "symbol": "SUI-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560042520"
+      }
+    ]
+  },
+  {
+    "symbol": "SWEAT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560042519"
+      }
+    ]
+  },
+  {
+    "symbol": "SUN-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560042519"
+      }
+    ]
+  },
+  {
+    "symbol": "TAMA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560047978"
+      }
+    ]
+  },
+  {
+    "symbol": "SWFTC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560047982"
+      }
+    ]
+  },
+  {
+    "symbol": "T-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560047979"
+      }
+    ]
+  },
+  {
+    "symbol": "THETA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560047984"
+      }
+    ]
+  },
+  {
+    "symbol": "TAKI-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560048093"
+      }
+    ]
+  },
+  {
+    "symbol": "TRB-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560053440"
+      }
+    ]
+  },
+  {
+    "symbol": "THG-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560053441"
+      }
+    ]
+  },
+  {
+    "symbol": "TRA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560053439"
+      }
+    ]
+  },
+  {
+    "symbol": "TON-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560053447"
+      }
+    ]
+  },
+  {
+    "symbol": "TIA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560053445"
+      }
+    ]
+  },
+  {
+    "symbol": "UMA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560058842"
+      }
+    ]
+  },
+  {
+    "symbol": "TUP-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560058855"
+      }
+    ]
+  },
+  {
+    "symbol": "TURBO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560058855"
+      }
+    ]
+  },
+  {
+    "symbol": "TRX-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560058850"
+      }
+    ]
+  },
+  {
+    "symbol": "UNI-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560058863"
+      }
+    ]
+  },
+  {
+    "symbol": "USTC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560064214"
+      }
+    ]
+  },
+  {
+    "symbol": "VELODROME-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560064216"
+      }
+    ]
+  },
+  {
+    "symbol": "VELO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560064219"
+      }
+    ]
+  },
+  {
+    "symbol": "UTK-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560064227"
+      }
+    ]
+  },
+  {
+    "symbol": "USDC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560064233"
+      }
+    ]
+  },
+  {
+    "symbol": "VSYS-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560069592"
+      }
+    ]
+  },
+  {
+    "symbol": "VELA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560069599"
+      }
+    ]
+  },
+  {
+    "symbol": "WAXP-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560069600"
+      }
+    ]
+  },
+  {
+    "symbol": "WBTC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560069604"
+      }
+    ]
+  },
+  {
+    "symbol": "VRA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560069661"
+      }
+    ]
+  },
+  {
+    "symbol": "WIFI-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560075004"
+      }
+    ]
+  },
+  {
+    "symbol": "WNCG-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560075110"
+      }
+    ]
+  },
+  {
+    "symbol": "WIN-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560075111"
+      }
+    ]
+  },
+  {
+    "symbol": "WLD-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560075133"
+      }
+    ]
+  },
+  {
+    "symbol": "WOO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560075138"
+      }
+    ]
+  },
+  {
+    "symbol": "XEC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560080501"
+      }
+    ]
+  },
+  {
+    "symbol": "XCH-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560080531"
+      }
+    ]
+  },
+  {
+    "symbol": "XAUT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560080541"
+      }
+    ]
+  },
+  {
+    "symbol": "WXT-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560080544"
+      }
+    ]
+  },
+  {
+    "symbol": "WSM-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560080551"
+      }
+    ]
+  },
+  {
+    "symbol": "XLM-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560085926"
+      }
+    ]
+  },
+  {
+    "symbol": "XEM-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560085932"
+      }
+    ]
+  },
+  {
+    "symbol": "XPR-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560085938"
+      }
+    ]
+  },
+  {
+    "symbol": "XETA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560085944"
+      }
+    ]
+  },
+  {
+    "symbol": "XNO-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560085959"
+      }
+    ]
+  },
+  {
+    "symbol": "YGG-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560091381"
+      }
+    ]
+  },
+  {
+    "symbol": "ZBC-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560091384"
+      }
+    ]
+  },
+  {
+    "symbol": "XTZ-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560091388"
+      }
+    ]
+  },
+  {
+    "symbol": "ZETA-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560091402"
+      }
+    ]
+  },
+  {
+    "symbol": "YFI-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560091389"
+      }
+    ]
+  },
+  {
+    "symbol": "ZIL-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560096811"
+      }
+    ]
+  },
+  {
+    "symbol": "OKB-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560096807"
+      }
+    ]
+  },
+  {
+    "symbol": "ETH-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560096816"
+      }
+    ]
+  },
+  {
+    "symbol": "ZRX-USDT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0008",
+        "makerU": "",
+        "makerUSDC": "",
+        "taker": "-0.001",
+        "takerU": "",
+        "takerUSDC": "",
+        "ts": "1709560096815"
+      }
+    ]
+  },
+  {
+    "symbol": "BTC-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560096818"
+      }
+    ]
+  },
+  {
+    "symbol": "XRP-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560102246"
+      }
+    ]
+  },
+  {
+    "symbol": "DOGE-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560102243"
+      }
+    ]
+  },
+  {
+    "symbol": "MATIC-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560102259"
+      }
+    ]
+  },
+  {
+    "symbol": "SHIB-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560102257"
+      }
+    ]
+  },
+  {
+    "symbol": "SOL-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560102266"
+      }
+    ]
+  },
+  {
+    "symbol": "FIL-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560107668"
+      }
+    ]
+  },
+  {
+    "symbol": "AGLD-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560107673"
+      }
+    ]
+  },
+  {
+    "symbol": "1INCH-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560107672"
+      }
+    ]
+  },
+  {
+    "symbol": "AAVE-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560107685"
+      }
+    ]
+  },
+  {
+    "symbol": "ADA-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560107681"
+      }
+    ]
+  },
+  {
+    "symbol": "APT-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560113102"
+      }
+    ]
+  },
+  {
+    "symbol": "APE-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560113107"
+      }
+    ]
+  },
+  {
+    "symbol": "ALGO-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560113123"
+      }
+    ]
+  },
+  {
+    "symbol": "AR-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560113128"
+      }
+    ]
+  },
+  {
+    "symbol": "ASTR-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560113133"
+      }
+    ]
+  },
+  {
+    "symbol": "AVAX-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560118516"
+      }
+    ]
+  },
+  {
+    "symbol": "ATOM-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560118526"
+      }
+    ]
+  },
+  {
+    "symbol": "BLUR-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560118527"
+      }
+    ]
+  },
+  {
+    "symbol": "BCH-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560118526"
+      }
+    ]
+  },
+  {
+    "symbol": "BNB-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560118534"
+      }
+    ]
+  },
+  {
+    "symbol": "CEL-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560123888"
+      }
+    ]
+  },
+  {
+    "symbol": "BSV-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560123897"
+      }
+    ]
+  },
+  {
+    "symbol": "CRO-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560123899"
+      }
+    ]
+  },
+  {
+    "symbol": "COMP-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560123896"
+      }
+    ]
+  },
+  {
+    "symbol": "CHZ-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560123900"
+      }
+    ]
+  },
+  {
+    "symbol": "CSPR-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560129249"
+      }
+    ]
+  },
+  {
+    "symbol": "DYDX-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560129248"
+      }
+    ]
+  },
+  {
+    "symbol": "DOT-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560129252"
+      }
+    ]
+  },
+  {
+    "symbol": "EGLD-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560129255"
+      }
+    ]
+  },
+  {
+    "symbol": "CRV-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560129257"
+      }
+    ]
+  },
+  {
+    "symbol": "FLOKI-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560134706"
+      }
+    ]
+  },
+  {
+    "symbol": "EOS-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560134705"
+      }
+    ]
+  },
+  {
+    "symbol": "ETHW-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560134706"
+      }
+    ]
+  },
+  {
+    "symbol": "ETC-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560134707"
+      }
+    ]
+  },
+  {
+    "symbol": "FLR-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560134712"
+      }
+    ]
+  },
+  {
+    "symbol": "GRT-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560140071"
+      }
+    ]
+  },
+  {
+    "symbol": "HBAR-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560140071"
+      }
+    ]
+  },
+  {
+    "symbol": "FTM-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560140083"
+      }
+    ]
+  },
+  {
+    "symbol": "GALA-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560140078"
+      }
+    ]
+  },
+  {
+    "symbol": "ICP-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560140093"
+      }
+    ]
+  },
+  {
+    "symbol": "KLAY-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560145434"
+      }
+    ]
+  },
+  {
+    "symbol": "LRC-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560145453"
+      }
+    ]
+  },
+  {
+    "symbol": "LOOKS-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560145455"
+      }
+    ]
+  },
+  {
+    "symbol": "LINK-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560145469"
+      }
+    ]
+  },
+  {
+    "symbol": "LTC-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560145471"
+      }
+    ]
+  },
+  {
+    "symbol": "MINA-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560150818"
+      }
+    ]
+  },
+  {
+    "symbol": "MANA-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560150818"
+      }
+    ]
+  },
+  {
+    "symbol": "LUNC-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560150817"
+      }
+    ]
+  },
+  {
+    "symbol": "MASK-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560150829"
+      }
+    ]
+  },
+  {
+    "symbol": "LUNA-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560150841"
+      }
+    ]
+  },
+  {
+    "symbol": "MKR-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560156190"
+      }
+    ]
+  },
+  {
+    "symbol": "OP-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560156184"
+      }
+    ]
+  },
+  {
+    "symbol": "RDNT-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560156189"
+      }
+    ]
+  },
+  {
+    "symbol": "NEAR-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560156191"
+      }
+    ]
+  },
+  {
+    "symbol": "OKT-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560156809"
+      }
+    ]
+  },
+  {
+    "symbol": "RPL-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560162156"
+      }
+    ]
+  },
+  {
+    "symbol": "STORJ-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560162169"
+      }
+    ]
+  },
+  {
+    "symbol": "SNX-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560162160"
+      }
+    ]
+  },
+  {
+    "symbol": "STX-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560162178"
+      }
+    ]
+  },
+  {
+    "symbol": "SAND-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560162172"
+      }
+    ]
+  },
+  {
+    "symbol": "SUSHI-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560167574"
+      }
+    ]
+  },
+  {
+    "symbol": "UNI-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560167577"
+      }
+    ]
+  },
+  {
+    "symbol": "USDT-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560167590"
+      }
+    ]
+  },
+  {
+    "symbol": "TON-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560167589"
+      }
+    ]
+  },
+  {
+    "symbol": "TRX-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560167689"
+      }
+    ]
+  },
+  {
+    "symbol": "XLM-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560173054"
+      }
+    ]
+  },
+  {
+    "symbol": "ETH-DAI",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560173059"
+      }
+    ]
+  },
+  {
+    "symbol": "BTC-DAI",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560173165"
+      }
+    ]
+  },
+  {
+    "symbol": "ZIL-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560173166"
+      }
+    ]
+  },
+  {
+    "symbol": "YGG-USDC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560173162"
+      }
+    ]
+  },
+  {
+    "symbol": "OKB-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560178526"
+      }
+    ]
+  },
+  {
+    "symbol": "SOL-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560178532"
+      }
+    ]
+  },
+  {
+    "symbol": "XRP-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560178534"
+      }
+    ]
+  },
+  {
+    "symbol": "ETH-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560178536"
+      }
+    ]
+  },
+  {
+    "symbol": "MATIC-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560178552"
+      }
+    ]
+  },
+  {
+    "symbol": "ADA-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560183922"
+      }
+    ]
+  },
+  {
+    "symbol": "FIL-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560183926"
+      }
+    ]
+  },
+  {
+    "symbol": "SHIB-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560183922"
+      }
+    ]
+  },
+  {
+    "symbol": "DOGE-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560183939"
+      }
+    ]
+  },
+  {
+    "symbol": "AAVE-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560183938"
+      }
+    ]
+  },
+  {
+    "symbol": "AVAX-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560189391"
+      }
+    ]
+  },
+  {
+    "symbol": "CHZ-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560189395"
+      }
+    ]
+  },
+  {
+    "symbol": "BSV-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560189393"
+      }
+    ]
+  },
+  {
+    "symbol": "BCH-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560189402"
+      }
+    ]
+  },
+  {
+    "symbol": "ATOM-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560189392"
+      }
+    ]
+  },
+  {
+    "symbol": "CRO-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560194815"
+      }
+    ]
+  },
+  {
+    "symbol": "EOS-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560194924"
+      }
+    ]
+  },
+  {
+    "symbol": "ETC-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560194918"
+      }
+    ]
+  },
+  {
+    "symbol": "DOT-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560194927"
+      }
+    ]
+  },
+  {
+    "symbol": "CRV-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560194944"
+      }
+    ]
+  },
+  {
+    "symbol": "GRT-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560200333"
+      }
+    ]
+  },
+  {
+    "symbol": "LTC-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560200337"
+      }
+    ]
+  },
+  {
+    "symbol": "HBAR-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560200335"
+      }
+    ]
+  },
+  {
+    "symbol": "LINK-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560200344"
+      }
+    ]
+  },
+  {
+    "symbol": "MANA-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560200345"
+      }
+    ]
+  },
+  {
+    "symbol": "MKR-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560205698"
+      }
+    ]
+  },
+  {
+    "symbol": "NEAR-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560205700"
+      }
+    ]
+  },
+  {
+    "symbol": "OKT-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560205709"
+      }
+    ]
+  },
+  {
+    "symbol": "QTUM-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560205716"
+      }
+    ]
+  },
+  {
+    "symbol": "NEO-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560205729"
+      }
+    ]
+  },
+  {
+    "symbol": "WBTC-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560211091"
+      }
+    ]
+  },
+  {
+    "symbol": "TRX-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560211097"
+      }
+    ]
+  },
+  {
+    "symbol": "UNI-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560211091"
+      }
+    ]
+  },
+  {
+    "symbol": "STX-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560211097"
+      }
+    ]
+  },
+  {
+    "symbol": "XCH-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560211097"
+      }
+    ]
+  },
+  {
+    "symbol": "XLM-BTC",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560216529"
+      }
+    ]
+  },
+  {
+    "symbol": "OKB-ETH",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560216533"
+      }
+    ]
+  },
+  {
+    "symbol": "SOL-ETH",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560216539"
+      }
+    ]
+  },
+  {
+    "symbol": "XRP-ETH",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560216528"
+      }
+    ]
+  },
+  {
+    "symbol": "DOGE-ETH",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560216541"
+      }
+    ]
+  },
+  {
+    "symbol": "BETH-ETH",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560221955"
+      }
+    ]
+  },
+  {
+    "symbol": "EOS-ETH",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560221961"
+      }
+    ]
+  },
+  {
+    "symbol": "ADA-ETH",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560221958"
+      }
+    ]
+  },
+  {
+    "symbol": "FIL-ETH",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560221958"
+      }
+    ]
+  },
+  {
+    "symbol": "ATOM-ETH",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560221962"
+      }
+    ]
+  },
+  {
+    "symbol": "OKT-ETH",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560227375"
+      }
+    ]
+  },
+  {
+    "symbol": "LTC-ETH",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560227370"
+      }
+    ]
+  },
+  {
+    "symbol": "STETH-ETH",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560227376"
+      }
+    ]
+  },
+  {
+    "symbol": "LINK-ETH",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560227380"
+      }
+    ]
+  },
+  {
+    "symbol": "TRX-ETH",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560227379"
+      }
+    ]
+  },
+  {
+    "symbol": "BTC-EURT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560232725"
+      }
+    ]
+  },
+  {
+    "symbol": "ETH-EURT",
+    "fees": [
+      {
+        "category": "1",
+        "delivery": "",
+        "exercise": "",
+        "fiat": [],
+        "instType": "SPOT",
+        "level": "Lv1",
+        "maker": "-0.0005",
+        "makerU": "",
+        "makerUSDC": "-0.0005",
+        "taker": "-0.0007",
+        "takerU": "",
+        "takerUSDC": "-0.0007",
+        "ts": "1709560232733"
+      }
+    ]
+  }
+]
